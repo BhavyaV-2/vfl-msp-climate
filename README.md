@@ -1,6 +1,6 @@
 # Vertical Federated Learning for Causal Assessment of Climate Responsiveness in India's MSP Policy
 
-This repository contains the data, preprocessing, and analysis notebook for the paper *"Vertical Federated Learning with Season-Split Architecture for Causal Assessment of Climate Responsiveness in India's Minimum Support Price Policy"* (submitted to ACM IKDD CODS-COMAD 2026).
+This repository contains the data, preprocessing, and analysis notebook for the paper *"Vertical Federated Learning for Causal Assessment of Climate Responsiveness in India's MSP Policy"* (submitted to ACM IKDD CODS-COMAD 2026).
 
 ## What this project does
 
