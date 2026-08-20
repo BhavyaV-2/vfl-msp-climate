@@ -1,0 +1,1354 @@
+year,state,crop,season,c2,msp
+2007,Gujarat,Bajra,Kharif,605.0,600.0
+2008,Gujarat,Bajra,Kharif,642.5766666666667,816.4
+2009,Gujarat,Bajra,Kharif,680.1533333333333,1032.8
+2010,Gujarat,Bajra,Kharif,717.73,880.0
+2011,Gujarat,Bajra,Kharif,762.75,980.0
+2012,Gujarat,Bajra,Kharif,884.28,1175.0
+2013,Gujarat,Bajra,Kharif,993.41,1250.0
+2014,Gujarat,Bajra,Kharif,1097.43,1250.0
+2015,Gujarat,Bajra,Kharif,1400.0,1275.0
+2016,Gujarat,Bajra,Kharif,1251.98,1330.0
+2017,Gujarat,Bajra,Kharif,1374.0,1425.0
+2018,Gujarat,Bajra,Kharif,1508.85,1950.0
+2019,Gujarat,Bajra,Kharif,1321.0,2000.0
+2020,Gujarat,Bajra,Kharif,1360.0,2150.0
+2021,Gujarat,Bajra,Kharif,1141.3333333333333,1633.3333333333335
+2022,Gujarat,Bajra,Kharif,922.6666666666667,1116.6666666666667
+2007,Haryana,Bajra,Kharif,704.0,600.0
+2008,Haryana,Bajra,Kharif,827.9433333333333,739.95
+2009,Haryana,Bajra,Kharif,951.8866666666667,879.9
+2010,Haryana,Bajra,Kharif,1075.83,880.0
+2011,Haryana,Bajra,Kharif,896.69,980.0
+2012,Haryana,Bajra,Kharif,1007.82,1175.0
+2013,Haryana,Bajra,Kharif,1132.89,1250.0
+2014,Haryana,Bajra,Kharif,1243.68,1250.0
+2015,Haryana,Bajra,Kharif,1300.0,1275.0
+2016,Haryana,Bajra,Kharif,1380.05,1330.0
+2017,Haryana,Bajra,Kharif,1515.65,1425.0
+2018,Haryana,Bajra,Kharif,1656.78,1950.0
+2019,Haryana,Bajra,Kharif,1601.0,2000.0
+2020,Haryana,Bajra,Kharif,1662.0,2150.0
+2021,Haryana,Bajra,Kharif,1354.0,1633.3333333333335
+2022,Haryana,Bajra,Kharif,1046.0,1116.6666666666667
+2007,Maharashtra,Bajra,Kharif,738.0,600.0
+2008,Maharashtra,Bajra,Kharif,786.3466666666667,795.0350000000001
+2009,Maharashtra,Bajra,Kharif,834.6933333333333,990.07
+2010,Maharashtra,Bajra,Kharif,883.04,880.0
+2011,Maharashtra,Bajra,Kharif,1073.76,980.0
+2012,Maharashtra,Bajra,Kharif,1184.14,1175.0
+2013,Maharashtra,Bajra,Kharif,1297.87,1250.0
+2014,Maharashtra,Bajra,Kharif,1419.64,1250.0
+2015,Maharashtra,Bajra,Kharif,1500.0,1275.0
+2016,Maharashtra,Bajra,Kharif,1587.72,1330.0
+2017,Maharashtra,Bajra,Kharif,1746.5,1425.0
+2018,Maharashtra,Bajra,Kharif,1913.31,1950.0
+2019,Maharashtra,Bajra,Kharif,2702.0,2000.0
+2020,Maharashtra,Bajra,Kharif,2747.0,2150.0
+2021,Maharashtra,Bajra,Kharif,2052.0833333333335,1633.3333333333335
+2022,Maharashtra,Bajra,Kharif,1357.1666666666667,1116.6666666666667
+2007,Punjab,Bajra,Kharif,662.25,600.0
+2008,Punjab,Bajra,Kharif,721.9825,816.4
+2009,Punjab,Bajra,Kharif,781.715,1032.8
+2010,Punjab,Bajra,Kharif,841.4475,880.0
+2011,Punjab,Bajra,Kharif,873.3050000000001,980.0
+2012,Punjab,Bajra,Kharif,983.5025,1175.0
+2013,Punjab,Bajra,Kharif,1099.52,1250.0
+2016,Punjab,Bajra,Kharif,1359.5425,1330.0
+2017,Punjab,Bajra,Kharif,1494.3725,1425.0
+2018,Punjab,Bajra,Kharif,1638.5475,1950.0
+2019,Punjab,Bajra,Kharif,1701.5,2000.0
+2020,Punjab,Bajra,Kharif,1745.75,2150.0
+2021,Punjab,Bajra,Kharif,1364.5,1633.3333333333335
+2022,Punjab,Bajra,Kharif,983.25,1116.6666666666667
+2007,Uttar Pradesh,Bajra,Kharif,602.0,600.0
+2008,Uttar Pradesh,Bajra,Kharif,631.0633333333334,689.25
+2009,Uttar Pradesh,Bajra,Kharif,660.1266666666667,778.5
+2010,Uttar Pradesh,Bajra,Kharif,689.19,880.0
+2011,Uttar Pradesh,Bajra,Kharif,760.02,980.0
+2012,Uttar Pradesh,Bajra,Kharif,857.77,1175.0
+2013,Uttar Pradesh,Bajra,Kharif,973.91,1250.0
+2014,Uttar Pradesh,Bajra,Kharif,1076.62,1250.0
+2015,Uttar Pradesh,Bajra,Kharif,1050.0,1275.0
+2016,Uttar Pradesh,Bajra,Kharif,1218.42,1330.0
+2017,Uttar Pradesh,Bajra,Kharif,1341.34,1425.0
+2018,Uttar Pradesh,Bajra,Kharif,1475.25,1950.0
+2019,Uttar Pradesh,Bajra,Kharif,1182.0,2000.0
+2020,Uttar Pradesh,Bajra,Kharif,1214.0,2150.0
+2021,Uttar Pradesh,Bajra,Kharif,1214.0,2150.0
+2022,Uttar Pradesh,Bajra,Kharif,1214.0,2150.0
+2007,Haryana,Barley,Rabi,576.7,540.0
+2008,Haryana,Barley,Rabi,614.1,550.0
+2009,Haryana,Barley,Rabi,677.24,565.0
+2010,Haryana,Barley,Rabi,659.01,650.0
+2011,Haryana,Barley,Rabi,705.98,700.0
+2012,Haryana,Barley,Rabi,752.95,750.0
+2013,Haryana,Barley,Rabi,808.97,780.0
+2014,Haryana,Barley,Rabi,1011.95,1100.0
+2015,Haryana,Barley,Rabi,1105.0,1150.0
+2016,Haryana,Barley,Rabi,1161.0,1225.0
+2017,Haryana,Barley,Rabi,1207.0,1325.0
+2018,Haryana,Barley,Rabi,1362.0,1410.0
+2019,Haryana,Barley,Rabi,1462.0,1440.0
+2020,Haryana,Barley,Rabi,1517.0,1525.0
+2021,Haryana,Barley,Rabi,1485.0,1600.0
+2022,Haryana,Barley,Rabi,1513.0,1635.0
+2007,Punjab,Barley,Rabi,576.7,540.0
+2008,Punjab,Barley,Rabi,614.1,550.0
+2009,Punjab,Barley,Rabi,677.24,565.0
+2010,Punjab,Barley,Rabi,659.01,650.0
+2011,Punjab,Barley,Rabi,705.98,700.0
+2012,Punjab,Barley,Rabi,752.95,750.0
+2013,Punjab,Barley,Rabi,808.97,780.0
+2014,Punjab,Barley,Rabi,1011.95,1100.0
+2015,Punjab,Barley,Rabi,1105.0,1150.0
+2016,Punjab,Barley,Rabi,1161.0,1225.0
+2017,Punjab,Barley,Rabi,1207.0,1325.0
+2018,Punjab,Barley,Rabi,1362.0,1410.0
+2019,Punjab,Barley,Rabi,1462.0,1440.0
+2020,Punjab,Barley,Rabi,1517.0,1525.0
+2021,Punjab,Barley,Rabi,1485.0,1600.0
+2022,Punjab,Barley,Rabi,1513.0,1635.0
+2007,Uttar Pradesh,Barley,Rabi,576.7,540.0
+2008,Uttar Pradesh,Barley,Rabi,614.1,550.0
+2009,Uttar Pradesh,Barley,Rabi,677.24,565.0
+2010,Uttar Pradesh,Barley,Rabi,659.01,650.0
+2011,Uttar Pradesh,Barley,Rabi,705.98,700.0
+2012,Uttar Pradesh,Barley,Rabi,752.95,750.0
+2013,Uttar Pradesh,Barley,Rabi,808.97,780.0
+2014,Uttar Pradesh,Barley,Rabi,1011.95,1100.0
+2015,Uttar Pradesh,Barley,Rabi,1105.0,1150.0
+2016,Uttar Pradesh,Barley,Rabi,1161.0,1225.0
+2017,Uttar Pradesh,Barley,Rabi,1207.0,1325.0
+2018,Uttar Pradesh,Barley,Rabi,1362.0,1410.0
+2019,Uttar Pradesh,Barley,Rabi,1462.0,1440.0
+2020,Uttar Pradesh,Barley,Rabi,1517.0,1525.0
+2021,Uttar Pradesh,Barley,Rabi,1485.0,1600.0
+2022,Uttar Pradesh,Barley,Rabi,1513.0,1635.0
+2007,Gujarat,Cotton,Kharif,1878.0,1800.0
+2008,Gujarat,Cotton,Kharif,1896.55,2507.635
+2009,Gujarat,Cotton,Kharif,1915.1000000000001,3215.27
+2010,Gujarat,Cotton,Kharif,1933.65,2500.0
+2011,Gujarat,Cotton,Kharif,2216.55,2800.0
+2012,Gujarat,Cotton,Kharif,2391.8,3600.0
+2013,Gujarat,Cotton,Kharif,2580.45,3700.0
+2014,Gujarat,Cotton,Kharif,2781.14,3750.0
+2015,Gujarat,Cotton,Kharif,3000.0,3800.0
+2016,Gujarat,Cotton,Kharif,2999.07,3860.0
+2017,Gujarat,Cotton,Kharif,3244.6,4020.0
+2018,Gujarat,Cotton,Kharif,3510.96,5150.0
+2019,Gujarat,Cotton,Kharif,3978.0,5255.0
+2020,Gujarat,Cotton,Kharif,4170.0,5515.0
+2021,Gujarat,Cotton,Kharif,4386.0,5515.0
+2022,Gujarat,Cotton,Kharif,4712.0,6080.0
+2007,Haryana,Cotton,Kharif,1979.0,1800.0
+2008,Haryana,Cotton,Kharif,2113.1566666666668,2369.025
+2009,Haryana,Cotton,Kharif,2247.313333333333,2938.05
+2010,Haryana,Cotton,Kharif,2381.47,2500.0
+2011,Haryana,Cotton,Kharif,2650.82,2800.0
+2012,Haryana,Cotton,Kharif,2865.17,3600.0
+2013,Haryana,Cotton,Kharif,3097.8,3700.0
+2014,Haryana,Cotton,Kharif,3341.34,3750.0
+2015,Haryana,Cotton,Kharif,3400.0,3800.0
+2016,Haryana,Cotton,Kharif,3614.99,3860.0
+2017,Haryana,Cotton,Kharif,3912.44,4020.0
+2018,Haryana,Cotton,Kharif,4235.8,5150.0
+2019,Haryana,Cotton,Kharif,5094.0,5255.0
+2020,Haryana,Cotton,Kharif,5259.0,5515.0
+2021,Haryana,Cotton,Kharif,4716.5,5515.0
+2022,Haryana,Cotton,Kharif,5012.5,6080.0
+2007,Maharashtra,Cotton,Kharif,2412.0,1800.0
+2008,Maharashtra,Cotton,Kharif,2545.67,2406.995
+2009,Maharashtra,Cotton,Kharif,2679.34,3013.99
+2010,Maharashtra,Cotton,Kharif,2813.01,2500.0
+2011,Maharashtra,Cotton,Kharif,2960.69,2800.0
+2012,Maharashtra,Cotton,Kharif,3236.46,3600.0
+2013,Maharashtra,Cotton,Kharif,3511.96,3700.0
+2014,Maharashtra,Cotton,Kharif,3804.83,3750.0
+2015,Maharashtra,Cotton,Kharif,4000.0,3800.0
+2016,Maharashtra,Cotton,Kharif,4124.96,3860.0
+2017,Maharashtra,Cotton,Kharif,4467.41,4020.0
+2018,Maharashtra,Cotton,Kharif,4833.0,5150.0
+2019,Maharashtra,Cotton,Kharif,5179.0,5255.0
+2020,Maharashtra,Cotton,Kharif,5381.0,5515.0
+2021,Maharashtra,Cotton,Kharif,4716.5,5515.0
+2022,Maharashtra,Cotton,Kharif,5012.5,6080.0
+2007,Punjab,Cotton,Kharif,2367.0,1800.0
+2008,Punjab,Cotton,Kharif,2297.29,2394.5950000000003
+2009,Punjab,Cotton,Kharif,2227.58,2989.19
+2010,Punjab,Cotton,Kharif,2157.87,2500.0
+2011,Punjab,Cotton,Kharif,2396.61,2800.0
+2012,Punjab,Cotton,Kharif,2588.66,3600.0
+2013,Punjab,Cotton,Kharif,2795.53,3700.0
+2014,Punjab,Cotton,Kharif,3014.28,3750.0
+2015,Punjab,Cotton,Kharif,3300.0,3800.0
+2016,Punjab,Cotton,Kharif,3252.02,3860.0
+2017,Punjab,Cotton,Kharif,3521.84,4020.0
+2018,Punjab,Cotton,Kharif,3812.39,5150.0
+2019,Punjab,Cotton,Kharif,4806.0,5255.0
+2020,Punjab,Cotton,Kharif,4949.0,5515.0
+2021,Punjab,Cotton,Kharif,5047.0,5515.0
+2022,Punjab,Cotton,Kharif,5313.0,6080.0
+2007,Uttar Pradesh,Cotton,Kharif,2159.0,1800.0
+2008,Uttar Pradesh,Cotton,Kharif,2213.1666666666665,2507.635
+2009,Uttar Pradesh,Cotton,Kharif,2267.3333333333335,3215.27
+2010,Uttar Pradesh,Cotton,Kharif,2321.5,2500.0
+2011,Uttar Pradesh,Cotton,Kharif,2556.1675,2800.0
+2012,Uttar Pradesh,Cotton,Kharif,2770.5225,3600.0
+2013,Uttar Pradesh,Cotton,Kharif,2996.435,3700.0
+2014,Uttar Pradesh,Cotton,Kharif,3235.3975,3750.0
+2015,Uttar Pradesh,Cotton,Kharif,3425.0,3800.0
+2016,Uttar Pradesh,Cotton,Kharif,3497.76,3860.0
+2017,Uttar Pradesh,Cotton,Kharif,3786.5725,4020.0
+2018,Uttar Pradesh,Cotton,Kharif,4098.0375,5150.0
+2019,Uttar Pradesh,Cotton,Kharif,4764.25,5255.0
+2020,Uttar Pradesh,Cotton,Kharif,4939.75,5515.0
+2021,Uttar Pradesh,Cotton,Kharif,4716.5,5515.0
+2022,Uttar Pradesh,Cotton,Kharif,5012.5,6080.0
+2007,Gujarat,Gram,Rabi,1376.0166666666667,1425.0
+2008,Gujarat,Gram,Rabi,1317.775,1435.0
+2009,Gujarat,Gram,Rabi,1747.6899999999998,1445.0
+2010,Gujarat,Gram,Rabi,2304.7233333333334,1600.0
+2011,Gujarat,Gram,Rabi,2122.6949999999997,1730.0
+2012,Gujarat,Gram,Rabi,2259.9166666666665,1760.0
+2013,Gujarat,Gram,Rabi,2406.25,2100.0
+2014,Gujarat,Gram,Rabi,3472.6200000000003,3100.0
+2015,Gujarat,Gram,Rabi,3340.0,3175.0
+2016,Gujarat,Gram,Rabi,3329.6666666666665,3425.0
+2017,Gujarat,Gram,Rabi,3514.6666666666665,3800.0
+2018,Gujarat,Gram,Rabi,4092.5,4250.0
+2019,Gujarat,Gram,Rabi,4638.5,4620.0
+2020,Gujarat,Gram,Rabi,4879.5,4875.0
+2021,Gujarat,Gram,Rabi,3394.0,5100.0
+2022,Gujarat,Gram,Rabi,3528.0,5230.0
+2007,Haryana,Gram,Rabi,1284.61,1425.0
+2008,Haryana,Gram,Rabi,1317.775,1435.0
+2009,Haryana,Gram,Rabi,1597.15,1445.0
+2010,Haryana,Gram,Rabi,3479.7,1600.0
+2011,Haryana,Gram,Rabi,1967.71,1730.0
+2012,Haryana,Gram,Rabi,2692.65,1760.0
+2013,Haryana,Gram,Rabi,2911.37,2100.0
+2014,Haryana,Gram,Rabi,4404.83,3100.0
+2015,Haryana,Gram,Rabi,3420.0,3175.0
+2016,Haryana,Gram,Rabi,3405.0,3425.0
+2017,Haryana,Gram,Rabi,3474.0,3800.0
+2018,Haryana,Gram,Rabi,4092.5,4250.0
+2019,Haryana,Gram,Rabi,4638.5,4620.0
+2020,Haryana,Gram,Rabi,4879.5,4875.0
+2021,Haryana,Gram,Rabi,3711.0,5100.0
+2022,Haryana,Gram,Rabi,3528.0,5230.0
+2007,Maharashtra,Gram,Rabi,1728.73,1425.0
+2008,Maharashtra,Gram,Rabi,1552.46,1435.0
+2009,Maharashtra,Gram,Rabi,1894.8,1445.0
+2010,Maharashtra,Gram,Rabi,1614.12,1600.0
+2011,Maharashtra,Gram,Rabi,2277.68,1730.0
+2012,Maharashtra,Gram,Rabi,2064.82,1760.0
+2013,Maharashtra,Gram,Rabi,2182.26,2100.0
+2014,Maharashtra,Gram,Rabi,3154.0,3100.0
+2015,Maharashtra,Gram,Rabi,3416.0,3175.0
+2016,Maharashtra,Gram,Rabi,3474.0,3425.0
+2017,Maharashtra,Gram,Rabi,3560.0,3800.0
+2018,Maharashtra,Gram,Rabi,3675.0,4250.0
+2019,Maharashtra,Gram,Rabi,4082.0,4620.0
+2020,Maharashtra,Gram,Rabi,4369.0,4875.0
+2021,Maharashtra,Gram,Rabi,4510.0,5100.0
+2022,Maharashtra,Gram,Rabi,4622.0,5230.0
+2007,Punjab,Gram,Rabi,1376.0166666666667,1425.0
+2008,Punjab,Gram,Rabi,1317.775,1435.0
+2009,Punjab,Gram,Rabi,1747.6899999999998,1445.0
+2010,Punjab,Gram,Rabi,2304.7233333333334,1600.0
+2011,Punjab,Gram,Rabi,2122.6949999999997,1730.0
+2012,Punjab,Gram,Rabi,2259.9166666666665,1760.0
+2013,Punjab,Gram,Rabi,2406.25,2100.0
+2014,Punjab,Gram,Rabi,3472.6200000000003,3100.0
+2015,Punjab,Gram,Rabi,3340.0,3175.0
+2016,Punjab,Gram,Rabi,3329.6666666666665,3425.0
+2017,Punjab,Gram,Rabi,3514.6666666666665,3800.0
+2018,Punjab,Gram,Rabi,4092.5,4250.0
+2019,Punjab,Gram,Rabi,4638.5,4620.0
+2020,Punjab,Gram,Rabi,4879.5,4875.0
+2021,Punjab,Gram,Rabi,4125.25,5100.0
+2022,Punjab,Gram,Rabi,4190.25,5230.0
+2007,Uttar Pradesh,Gram,Rabi,1114.71,1425.0
+2008,Uttar Pradesh,Gram,Rabi,1083.09,1435.0
+2009,Uttar Pradesh,Gram,Rabi,1751.12,1445.0
+2010,Uttar Pradesh,Gram,Rabi,1820.35,1600.0
+2011,Uttar Pradesh,Gram,Rabi,2122.6949999999997,1730.0
+2012,Uttar Pradesh,Gram,Rabi,2022.28,1760.0
+2013,Uttar Pradesh,Gram,Rabi,2125.12,2100.0
+2014,Uttar Pradesh,Gram,Rabi,2859.03,3100.0
+2015,Uttar Pradesh,Gram,Rabi,3184.0,3175.0
+2016,Uttar Pradesh,Gram,Rabi,3110.0,3425.0
+2017,Uttar Pradesh,Gram,Rabi,3510.0,3800.0
+2018,Uttar Pradesh,Gram,Rabi,4510.0,4250.0
+2019,Uttar Pradesh,Gram,Rabi,5195.0,4620.0
+2020,Uttar Pradesh,Gram,Rabi,5390.0,4875.0
+2021,Uttar Pradesh,Gram,Rabi,4886.0,5100.0
+2022,Uttar Pradesh,Gram,Rabi,5083.0,5230.0
+2007,Gujarat,Groundnut,Kharif,1084.0,1550.0
+2008,Gujarat,Groundnut,Kharif,1293.0533333333333,2163.98
+2009,Gujarat,Groundnut,Kharif,1502.1066666666668,2777.96
+2010,Gujarat,Groundnut,Kharif,1711.16,2300.0
+2011,Gujarat,Groundnut,Kharif,2086.79,2700.0
+2012,Gujarat,Groundnut,Kharif,2378.11,3700.0
+2013,Gujarat,Groundnut,Kharif,2643.08,4000.0
+2014,Gujarat,Groundnut,Kharif,2894.49,4000.0
+2015,Gujarat,Groundnut,Kharif,3200.0,4030.0
+2016,Gujarat,Groundnut,Kharif,3154.91,4220.0
+2017,Gujarat,Groundnut,Kharif,3426.69,4450.0
+2018,Gujarat,Groundnut,Kharif,3696.08,4890.0
+2019,Gujarat,Groundnut,Kharif,4212.0,5090.0
+2020,Gujarat,Groundnut,Kharif,4351.0,5275.0
+2021,Gujarat,Groundnut,Kharif,4461.0,5275.0
+2022,Gujarat,Groundnut,Kharif,4732.0,5850.0
+2007,Haryana,Groundnut,Kharif,1541.0,1550.0
+2008,Haryana,Groundnut,Kharif,1707.4916666666666,2163.98
+2009,Haryana,Groundnut,Kharif,1873.9833333333333,2777.96
+2010,Haryana,Groundnut,Kharif,2040.475,2300.0
+2011,Haryana,Groundnut,Kharif,2648.745,2700.0
+2012,Haryana,Groundnut,Kharif,3005.425,3700.0
+2013,Haryana,Groundnut,Kharif,3314.71,4000.0
+2014,Haryana,Groundnut,Kharif,3608.785,4000.0
+2015,Haryana,Groundnut,Kharif,3400.0,4030.0
+2016,Haryana,Groundnut,Kharif,3917.215,4220.0
+2017,Haryana,Groundnut,Kharif,4245.785,4450.0
+2018,Haryana,Groundnut,Kharif,4588.82,4890.0
+2019,Haryana,Groundnut,Kharif,5595.5,5090.0
+2020,Haryana,Groundnut,Kharif,5745.0,5275.0
+2021,Haryana,Groundnut,Kharif,3943.0,5275.0
+2007,Maharashtra,Groundnut,Kharif,1998.0,1550.0
+2008,Maharashtra,Groundnut,Kharif,2121.93,1884.93
+2009,Maharashtra,Groundnut,Kharif,2245.86,2219.86
+2010,Maharashtra,Groundnut,Kharif,2369.79,2300.0
+2011,Maharashtra,Groundnut,Kharif,3210.7,2700.0
+2012,Maharashtra,Groundnut,Kharif,3632.74,3700.0
+2013,Maharashtra,Groundnut,Kharif,3986.34,4000.0
+2014,Maharashtra,Groundnut,Kharif,4323.08,4000.0
+2015,Maharashtra,Groundnut,Kharif,3600.0,4030.0
+2016,Maharashtra,Groundnut,Kharif,4679.52,4220.0
+2017,Maharashtra,Groundnut,Kharif,5064.88,4450.0
+2018,Maharashtra,Groundnut,Kharif,5481.56,4890.0
+2019,Maharashtra,Groundnut,Kharif,6979.0,5090.0
+2020,Maharashtra,Groundnut,Kharif,7139.0,5275.0
+2021,Maharashtra,Groundnut,Kharif,3943.0,5275.0
+2022,Maharashtra,Groundnut,Kharif,4732.0,5850.0
+2007,Punjab,Groundnut,Kharif,1541.0,1550.0
+2008,Punjab,Groundnut,Kharif,1707.4916666666666,2163.98
+2009,Punjab,Groundnut,Kharif,1873.9833333333333,2777.96
+2010,Punjab,Groundnut,Kharif,2040.475,2300.0
+2011,Punjab,Groundnut,Kharif,2648.745,2700.0
+2012,Punjab,Groundnut,Kharif,3005.425,3700.0
+2013,Punjab,Groundnut,Kharif,3314.71,4000.0
+2014,Punjab,Groundnut,Kharif,3608.785,4000.0
+2015,Punjab,Groundnut,Kharif,3400.0,4030.0
+2016,Punjab,Groundnut,Kharif,3917.215,4220.0
+2017,Punjab,Groundnut,Kharif,4245.785,4450.0
+2018,Punjab,Groundnut,Kharif,4588.82,4890.0
+2019,Punjab,Groundnut,Kharif,5595.5,5090.0
+2020,Punjab,Groundnut,Kharif,5745.0,5275.0
+2021,Punjab,Groundnut,Kharif,3943.0,5275.0
+2022,Punjab,Groundnut,Kharif,4732.0,5850.0
+2007,Uttar Pradesh,Groundnut,Kharif,1541.0,1550.0
+2008,Uttar Pradesh,Groundnut,Kharif,1707.4916666666666,2163.98
+2009,Uttar Pradesh,Groundnut,Kharif,1873.9833333333333,2777.96
+2010,Uttar Pradesh,Groundnut,Kharif,2040.475,2300.0
+2011,Uttar Pradesh,Groundnut,Kharif,2648.745,2700.0
+2012,Uttar Pradesh,Groundnut,Kharif,3005.425,3700.0
+2013,Uttar Pradesh,Groundnut,Kharif,3314.71,4000.0
+2014,Uttar Pradesh,Groundnut,Kharif,3608.785,4000.0
+2015,Uttar Pradesh,Groundnut,Kharif,3400.0,4030.0
+2016,Uttar Pradesh,Groundnut,Kharif,3917.215,4220.0
+2017,Uttar Pradesh,Groundnut,Kharif,4245.785,4450.0
+2018,Uttar Pradesh,Groundnut,Kharif,4588.82,4890.0
+2019,Uttar Pradesh,Groundnut,Kharif,5595.5,5090.0
+2020,Uttar Pradesh,Groundnut,Kharif,5745.0,5275.0
+2021,Uttar Pradesh,Groundnut,Kharif,3425.0,5275.0
+2022,Uttar Pradesh,Groundnut,Kharif,4732.0,5850.0
+2007,Gujarat,Jowar,Kharif,652.0,600.0
+2007,Gujarat,Jowar,Rabi,686.9816666666667,713.6925
+2008,Gujarat,Jowar,Kharif,721.9633333333334,827.385
+2008,Gujarat,Jowar,Rabi,756.9449999999999,941.0775
+2009,Gujarat,Jowar,Kharif,791.9266666666666,1054.77
+2009,Gujarat,Jowar,Rabi,826.9083333333333,967.385
+2010,Gujarat,Jowar,Kharif,861.89,880.0
+2010,Gujarat,Jowar,Rabi,948.8699999999999,930.0
+2011,Gujarat,Jowar,Kharif,1035.85,980.0
+2011,Gujarat,Jowar,Rabi,1106.5749999999998,1190.0
+2012,Gujarat,Jowar,Kharif,1177.3,1400.0
+2012,Gujarat,Jowar,Rabi,1240.395,1450.0
+2013,Gujarat,Jowar,Kharif,1303.49,1500.0
+2013,Gujarat,Jowar,Rabi,1388.78,1515.0
+2014,Gujarat,Jowar,Kharif,1474.07,1530.0
+2014,Gujarat,Jowar,Rabi,1562.0349999999999,1550.0
+2015,Gujarat,Jowar,Kharif,1650.0,1570.0
+2015,Gujarat,Jowar,Rabi,1649.385,1597.5
+2016,Gujarat,Jowar,Kharif,1648.77,1625.0
+2016,Gujarat,Jowar,Rabi,1729.395,1662.5
+2017,Gujarat,Jowar,Kharif,1810.02,1700.0
+2017,Gujarat,Jowar,Rabi,1894.455,2065.0
+2018,Gujarat,Jowar,Kharif,1978.89,2430.0
+2018,Gujarat,Jowar,Rabi,2143.945,2490.0
+2019,Gujarat,Jowar,Kharif,2309.0,2550.0
+2019,Gujarat,Jowar,Rabi,2356.0,2585.0
+2020,Gujarat,Jowar,Kharif,2403.0,2620.0
+2020,Gujarat,Jowar,Rabi,2453.0,2707.5
+2021,Gujarat,Jowar,Kharif,2503.0,2795.0
+2021,Gujarat,Jowar,Rabi,2553.0,2882.5
+2022,Gujarat,Jowar,Kharif,2603.0,2970.0
+2022,Gujarat,Jowar,Rabi,1627.5,1785.0
+2007,Haryana,Jowar,Kharif,652.0,600.0
+2008,Haryana,Jowar,Kharif,721.9633333333334,827.385
+2009,Haryana,Jowar,Kharif,791.9266666666666,1054.77
+2010,Haryana,Jowar,Kharif,861.89,880.0
+2011,Haryana,Jowar,Kharif,1035.85,980.0
+2012,Haryana,Jowar,Kharif,1177.3,1400.0
+2013,Haryana,Jowar,Kharif,1303.49,1500.0
+2014,Haryana,Jowar,Kharif,1474.07,1530.0
+2015,Haryana,Jowar,Kharif,1650.0,1570.0
+2016,Haryana,Jowar,Kharif,1648.77,1625.0
+2017,Haryana,Jowar,Kharif,1810.02,1700.0
+2018,Haryana,Jowar,Kharif,1978.89,2430.0
+2019,Haryana,Jowar,Kharif,2309.0,2550.0
+2020,Haryana,Jowar,Kharif,2403.0,2620.0
+2021,Haryana,Jowar,Kharif,2503.0,2795.0
+2022,Haryana,Jowar,Kharif,2603.0,2970.0
+2007,Maharashtra,Jowar,Kharif,652.0,600.0
+2007,Maharashtra,Jowar,Rabi,686.9816666666667,713.6925
+2008,Maharashtra,Jowar,Kharif,721.9633333333334,827.385
+2008,Maharashtra,Jowar,Rabi,756.9449999999999,941.0775
+2009,Maharashtra,Jowar,Kharif,791.9266666666666,1054.77
+2009,Maharashtra,Jowar,Rabi,826.9083333333333,967.385
+2010,Maharashtra,Jowar,Kharif,861.89,880.0
+2010,Maharashtra,Jowar,Rabi,948.8699999999999,930.0
+2011,Maharashtra,Jowar,Kharif,1035.85,980.0
+2011,Maharashtra,Jowar,Rabi,1106.5749999999998,1190.0
+2012,Maharashtra,Jowar,Kharif,1177.3,1400.0
+2012,Maharashtra,Jowar,Rabi,1240.395,1450.0
+2013,Maharashtra,Jowar,Kharif,1303.49,1500.0
+2013,Maharashtra,Jowar,Rabi,1388.78,1515.0
+2014,Maharashtra,Jowar,Kharif,1474.07,1530.0
+2014,Maharashtra,Jowar,Rabi,1687.0349999999999,1550.0
+2015,Maharashtra,Jowar,Kharif,1900.0,1570.0
+2015,Maharashtra,Jowar,Rabi,1774.385,1597.5
+2016,Maharashtra,Jowar,Kharif,1648.77,1625.0
+2016,Maharashtra,Jowar,Rabi,1729.395,1662.5
+2017,Maharashtra,Jowar,Kharif,1810.02,1700.0
+2017,Maharashtra,Jowar,Rabi,1894.455,2065.0
+2018,Maharashtra,Jowar,Kharif,1978.89,2430.0
+2018,Maharashtra,Jowar,Rabi,2143.945,2490.0
+2019,Maharashtra,Jowar,Kharif,2309.0,2550.0
+2019,Maharashtra,Jowar,Rabi,2356.0,2585.0
+2020,Maharashtra,Jowar,Kharif,2403.0,2620.0
+2020,Maharashtra,Jowar,Rabi,2453.0,2707.5
+2021,Maharashtra,Jowar,Kharif,2503.0,2795.0
+2021,Maharashtra,Jowar,Rabi,2553.0,2882.5
+2022,Maharashtra,Jowar,Kharif,2603.0,2970.0
+2022,Maharashtra,Jowar,Rabi,1627.5,1785.0
+2007,Punjab,Jowar,Kharif,652.0,600.0
+2008,Punjab,Jowar,Kharif,652.0,827.385
+2009,Punjab,Jowar,Kharif,652.0,1054.77
+2007,Uttar Pradesh,Jowar,Kharif,652.0,600.0
+2008,Uttar Pradesh,Jowar,Kharif,721.9633333333334,827.385
+2009,Uttar Pradesh,Jowar,Kharif,791.9266666666666,1054.77
+2010,Uttar Pradesh,Jowar,Kharif,861.89,880.0
+2011,Uttar Pradesh,Jowar,Kharif,1035.85,980.0
+2012,Uttar Pradesh,Jowar,Kharif,1177.3,1400.0
+2013,Uttar Pradesh,Jowar,Kharif,1303.49,1500.0
+2014,Uttar Pradesh,Jowar,Kharif,1474.07,1530.0
+2015,Uttar Pradesh,Jowar,Kharif,1400.0,1570.0
+2016,Uttar Pradesh,Jowar,Kharif,1648.77,1625.0
+2017,Uttar Pradesh,Jowar,Kharif,1810.02,1700.0
+2018,Uttar Pradesh,Jowar,Kharif,1978.89,2430.0
+2019,Uttar Pradesh,Jowar,Kharif,2309.0,2550.0
+2020,Uttar Pradesh,Jowar,Kharif,2403.0,2620.0
+2021,Uttar Pradesh,Jowar,Kharif,2503.0,2795.0
+2022,Uttar Pradesh,Jowar,Kharif,2603.0,2970.0
+2007,Gujarat,Maize,Kharif,789.0,620.0
+2008,Gujarat,Maize,Kharif,890.8266666666667,795.4449999999999
+2009,Gujarat,Maize,Kharif,992.6533333333333,970.89
+2010,Gujarat,Maize,Kharif,1094.48,880.0
+2010,Gujarat,Maize,Rabi,1095.5700000000002,930.0
+2011,Gujarat,Maize,Kharif,1096.66,980.0
+2011,Gujarat,Maize,Rabi,1077.56,1077.5
+2012,Gujarat,Maize,Kharif,1058.46,1175.0
+2012,Gujarat,Maize,Rabi,1121.345,1212.5
+2013,Gujarat,Maize,Kharif,1184.23,1250.0
+2013,Gujarat,Maize,Rabi,1245.975,1280.0
+2014,Gujarat,Maize,Kharif,1307.72,1310.0
+2014,Gujarat,Maize,Rabi,1228.8600000000001,1310.0
+2015,Gujarat,Maize,Kharif,1150.0,1310.0
+2015,Gujarat,Maize,Rabi,1297.845,1337.5
+2016,Gujarat,Maize,Kharif,1445.69,1365.0
+2016,Gujarat,Maize,Rabi,1514.08,1395.0
+2017,Gujarat,Maize,Kharif,1582.47,1425.0
+2017,Gujarat,Maize,Rabi,1653.68,1562.5
+2018,Gujarat,Maize,Kharif,1724.89,1700.0
+2018,Gujarat,Maize,Rabi,2001.4450000000002,1730.0
+2019,Gujarat,Maize,Kharif,2278.0,1760.0
+2019,Gujarat,Maize,Rabi,2306.0,1805.0
+2020,Gujarat,Maize,Kharif,2334.0,1850.0
+2020,Gujarat,Maize,Rabi,2370.0,1850.0
+2021,Gujarat,Maize,Kharif,2406.0,1850.0
+2021,Gujarat,Maize,Rabi,2497.5,1906.0
+2022,Gujarat,Maize,Kharif,2589.0,1962.0
+2022,Gujarat,Maize,Rabi,1689.0,1291.0
+2007,Haryana,Maize,Kharif,789.0,620.0
+2008,Haryana,Maize,Kharif,867.495,795.4449999999999
+2009,Haryana,Maize,Kharif,945.9900000000001,970.89
+2010,Haryana,Maize,Kharif,1024.4850000000001,880.0
+2011,Haryana,Maize,Kharif,1260.5900000000001,980.0
+2012,Haryana,Maize,Kharif,1058.46,1175.0
+2013,Haryana,Maize,Kharif,1184.23,1250.0
+2014,Haryana,Maize,Kharif,1307.72,1310.0
+2015,Haryana,Maize,Kharif,1150.0,1310.0
+2016,Haryana,Maize,Kharif,1445.69,1365.0
+2017,Haryana,Maize,Kharif,1582.47,1425.0
+2018,Haryana,Maize,Kharif,1724.89,1700.0
+2019,Haryana,Maize,Kharif,1809.5,1760.0
+2020,Haryana,Maize,Kharif,1865.75,1850.0
+2021,Haryana,Maize,Kharif,2149.0,1850.0
+2022,Haryana,Maize,Kharif,2589.0,1962.0
+2007,Maharashtra,Maize,Kharif,789.0,620.0
+2007,Maharashtra,Maize,Rabi,828.2475000000001,707.7225
+2008,Maharashtra,Maize,Kharif,867.495,795.4449999999999
+2008,Maharashtra,Maize,Rabi,906.7425000000001,883.1675
+2009,Maharashtra,Maize,Kharif,945.9900000000001,970.89
+2009,Maharashtra,Maize,Rabi,985.2375000000002,925.4449999999999
+2010,Maharashtra,Maize,Kharif,1024.4850000000001,880.0
+2010,Maharashtra,Maize,Rabi,1142.5375000000001,930.0
+2011,Maharashtra,Maize,Kharif,1260.5900000000001,980.0
+2011,Maharashtra,Maize,Rabi,1159.525,1077.5
+2012,Maharashtra,Maize,Kharif,1058.46,1175.0
+2012,Maharashtra,Maize,Rabi,1121.345,1212.5
+2013,Maharashtra,Maize,Kharif,1184.23,1250.0
+2013,Maharashtra,Maize,Rabi,1245.975,1280.0
+2014,Maharashtra,Maize,Kharif,1307.72,1310.0
+2014,Maharashtra,Maize,Rabi,1228.8600000000001,1310.0
+2015,Maharashtra,Maize,Kharif,1150.0,1310.0
+2015,Maharashtra,Maize,Rabi,1297.845,1337.5
+2016,Maharashtra,Maize,Kharif,1445.69,1365.0
+2016,Maharashtra,Maize,Rabi,1514.08,1395.0
+2017,Maharashtra,Maize,Kharif,1582.47,1425.0
+2017,Maharashtra,Maize,Rabi,1653.68,1562.5
+2018,Maharashtra,Maize,Kharif,1724.89,1700.0
+2018,Maharashtra,Maize,Rabi,1761.4450000000002,1730.0
+2019,Maharashtra,Maize,Kharif,1798.0,1760.0
+2019,Maharashtra,Maize,Rabi,1804.5,1805.0
+2020,Maharashtra,Maize,Kharif,1811.0,1850.0
+2020,Maharashtra,Maize,Rabi,1980.0,1850.0
+2021,Maharashtra,Maize,Kharif,2149.0,1850.0
+2021,Maharashtra,Maize,Rabi,2369.0,1906.0
+2022,Maharashtra,Maize,Kharif,2589.0,1962.0
+2022,Maharashtra,Maize,Rabi,1689.0,1291.0
+2007,Punjab,Maize,Kharif,789.0,620.0
+2008,Punjab,Maize,Kharif,867.495,795.4449999999999
+2009,Punjab,Maize,Kharif,945.9900000000001,970.89
+2010,Punjab,Maize,Kharif,1024.4850000000001,880.0
+2011,Punjab,Maize,Kharif,1260.5900000000001,980.0
+2012,Punjab,Maize,Kharif,1058.46,1175.0
+2013,Punjab,Maize,Kharif,1184.23,1250.0
+2014,Punjab,Maize,Kharif,1307.72,1310.0
+2015,Punjab,Maize,Kharif,1150.0,1310.0
+2016,Punjab,Maize,Kharif,1445.69,1365.0
+2017,Punjab,Maize,Kharif,1582.47,1425.0
+2018,Punjab,Maize,Kharif,1724.89,1700.0
+2019,Punjab,Maize,Kharif,1373.0,1760.0
+2020,Punjab,Maize,Kharif,1519.0,1850.0
+2021,Punjab,Maize,Kharif,2149.0,1850.0
+2022,Punjab,Maize,Kharif,2589.0,1962.0
+2007,Uttar Pradesh,Maize,Kharif,789.0,620.0
+2007,Uttar Pradesh,Maize,Rabi,816.5816666666667,698.035
+2008,Uttar Pradesh,Maize,Kharif,844.1633333333333,776.0699999999999
+2008,Uttar Pradesh,Maize,Rabi,871.745,854.105
+2009,Uttar Pradesh,Maize,Kharif,899.3266666666667,932.14
+2009,Uttar Pradesh,Maize,Rabi,926.9083333333333,906.0699999999999
+2010,Uttar Pradesh,Maize,Kharif,954.49,880.0
+2010,Uttar Pradesh,Maize,Rabi,1189.505,930.0
+2011,Uttar Pradesh,Maize,Kharif,1424.52,980.0
+2011,Uttar Pradesh,Maize,Rabi,1241.49,1077.5
+2012,Uttar Pradesh,Maize,Kharif,1058.46,1175.0
+2012,Uttar Pradesh,Maize,Rabi,1121.345,1212.5
+2013,Uttar Pradesh,Maize,Kharif,1184.23,1250.0
+2013,Uttar Pradesh,Maize,Rabi,1245.975,1280.0
+2014,Uttar Pradesh,Maize,Kharif,1307.72,1310.0
+2014,Uttar Pradesh,Maize,Rabi,1228.8600000000001,1310.0
+2015,Uttar Pradesh,Maize,Kharif,1150.0,1310.0
+2015,Uttar Pradesh,Maize,Rabi,1297.845,1337.5
+2016,Uttar Pradesh,Maize,Kharif,1445.69,1365.0
+2016,Uttar Pradesh,Maize,Rabi,1514.08,1395.0
+2017,Uttar Pradesh,Maize,Kharif,1582.47,1425.0
+2017,Uttar Pradesh,Maize,Rabi,1653.68,1562.5
+2018,Uttar Pradesh,Maize,Kharif,1724.89,1700.0
+2018,Uttar Pradesh,Maize,Rabi,1756.9450000000002,1730.0
+2019,Uttar Pradesh,Maize,Kharif,1789.0,1760.0
+2019,Uttar Pradesh,Maize,Rabi,1794.0,1805.0
+2020,Uttar Pradesh,Maize,Kharif,1799.0,1850.0
+2020,Uttar Pradesh,Maize,Rabi,1845.5,1850.0
+2021,Uttar Pradesh,Maize,Kharif,1892.0,1850.0
+2021,Uttar Pradesh,Maize,Rabi,2240.5,1906.0
+2022,Uttar Pradesh,Maize,Kharif,2589.0,1962.0
+2022,Uttar Pradesh,Maize,Rabi,2589.0,1962.0
+2007,Haryana,Masoor,Rabi,1745.6,1525.0
+2008,Haryana,Masoor,Rabi,1302.26,1535.0
+2009,Haryana,Masoor,Rabi,1735.04,1545.0
+2010,Haryana,Masoor,Rabi,1817.44,1700.0
+2011,Haryana,Masoor,Rabi,2124.4750000000004,1785.0
+2012,Haryana,Masoor,Rabi,2431.51,1870.0
+2013,Haryana,Masoor,Rabi,2584.28,2250.0
+2014,Haryana,Masoor,Rabi,3111.71,2950.0
+2015,Haryana,Masoor,Rabi,3125.0,3075.0
+2016,Haryana,Masoor,Rabi,3274.0,3325.0
+2017,Haryana,Masoor,Rabi,3842.0,3800.0
+2018,Haryana,Masoor,Rabi,4452.0,4150.0
+2019,Haryana,Masoor,Rabi,5518.0,4475.0
+2020,Haryana,Masoor,Rabi,5543.0,4800.0
+2021,Haryana,Masoor,Rabi,5182.0,5100.0
+2007,Punjab,Masoor,Rabi,1745.6,1525.0
+2008,Punjab,Masoor,Rabi,1302.26,1535.0
+2009,Punjab,Masoor,Rabi,1735.04,1545.0
+2010,Punjab,Masoor,Rabi,1817.44,1700.0
+2011,Punjab,Masoor,Rabi,2124.4750000000004,1785.0
+2012,Punjab,Masoor,Rabi,2431.51,1870.0
+2013,Punjab,Masoor,Rabi,2584.28,2250.0
+2014,Punjab,Masoor,Rabi,3111.71,2950.0
+2015,Punjab,Masoor,Rabi,3125.0,3075.0
+2016,Punjab,Masoor,Rabi,3274.0,3325.0
+2017,Punjab,Masoor,Rabi,3842.0,3800.0
+2018,Punjab,Masoor,Rabi,4452.0,4150.0
+2019,Punjab,Masoor,Rabi,5518.0,4475.0
+2020,Punjab,Masoor,Rabi,5543.0,4800.0
+2021,Punjab,Masoor,Rabi,5182.0,5100.0
+2022,Punjab,Masoor,Rabi,5280.0,5500.0
+2007,Uttar Pradesh,Masoor,Rabi,1745.6,1525.0
+2008,Uttar Pradesh,Masoor,Rabi,1302.26,1535.0
+2009,Uttar Pradesh,Masoor,Rabi,1735.04,1545.0
+2010,Uttar Pradesh,Masoor,Rabi,1817.44,1700.0
+2011,Uttar Pradesh,Masoor,Rabi,2124.4750000000004,1785.0
+2012,Uttar Pradesh,Masoor,Rabi,2431.51,1870.0
+2013,Uttar Pradesh,Masoor,Rabi,2584.28,2250.0
+2014,Uttar Pradesh,Masoor,Rabi,3111.71,2950.0
+2015,Uttar Pradesh,Masoor,Rabi,3125.0,3075.0
+2016,Uttar Pradesh,Masoor,Rabi,3274.0,3325.0
+2017,Uttar Pradesh,Masoor,Rabi,3842.0,3800.0
+2018,Uttar Pradesh,Masoor,Rabi,4452.0,4150.0
+2019,Uttar Pradesh,Masoor,Rabi,5518.0,4475.0
+2020,Uttar Pradesh,Masoor,Rabi,5543.0,4800.0
+2021,Uttar Pradesh,Masoor,Rabi,5182.0,5100.0
+2022,Uttar Pradesh,Masoor,Rabi,5280.0,5500.0
+2007,Gujarat,Moong,Kharif,1978.0,1700.0
+2008,Gujarat,Moong,Kharif,2540.463333333333,2788.26
+2009,Gujarat,Moong,Kharif,3102.9266666666663,3876.52
+2010,Gujarat,Moong,Kharif,3665.39,3170.0
+2011,Gujarat,Moong,Kharif,3686.32,3400.0
+2012,Gujarat,Moong,Kharif,4141.74,4400.0
+2013,Gujarat,Moong,Kharif,4578.43,4500.0
+2014,Gujarat,Moong,Kharif,4991.68,4600.0
+2015,Gujarat,Moong,Kharif,4400.0,4850.0
+2016,Gujarat,Moong,Kharif,5459.78,5225.0
+2017,Gujarat,Moong,Kharif,5928.02,5575.0
+2018,Gujarat,Moong,Kharif,6400.17,6975.0
+2019,Gujarat,Moong,Kharif,5818.0,7050.0
+2020,Gujarat,Moong,Kharif,6019.0,7196.0
+2021,Gujarat,Moong,Kharif,6375.0,7196.0
+2022,Gujarat,Moong,Kharif,8459.0,7755.0
+2007,Haryana,Moong,Kharif,1978.0,1700.0
+2008,Haryana,Moong,Kharif,2540.463333333333,2788.26
+2009,Haryana,Moong,Kharif,3102.9266666666663,3876.52
+2010,Haryana,Moong,Kharif,3665.39,3170.0
+2011,Haryana,Moong,Kharif,3686.32,3400.0
+2012,Haryana,Moong,Kharif,4141.74,4400.0
+2013,Haryana,Moong,Kharif,4578.43,4500.0
+2014,Haryana,Moong,Kharif,4991.68,4600.0
+2015,Haryana,Moong,Kharif,4400.0,4850.0
+2016,Haryana,Moong,Kharif,5459.78,5225.0
+2017,Haryana,Moong,Kharif,5928.02,5575.0
+2018,Haryana,Moong,Kharif,6400.17,6975.0
+2019,Haryana,Moong,Kharif,7258.0,7050.0
+2020,Haryana,Moong,Kharif,6896.5,7196.0
+2021,Haryana,Moong,Kharif,6178.0,7196.0
+2022,Haryana,Moong,Kharif,8459.0,7755.0
+2007,Maharashtra,Moong,Kharif,1978.0,1700.0
+2008,Maharashtra,Moong,Kharif,2540.463333333333,2788.26
+2009,Maharashtra,Moong,Kharif,3102.9266666666663,3876.52
+2010,Maharashtra,Moong,Kharif,3665.39,3170.0
+2011,Maharashtra,Moong,Kharif,3686.32,3400.0
+2012,Maharashtra,Moong,Kharif,4141.74,4400.0
+2013,Maharashtra,Moong,Kharif,4578.43,4500.0
+2014,Maharashtra,Moong,Kharif,4991.68,4600.0
+2015,Maharashtra,Moong,Kharif,4400.0,4850.0
+2016,Maharashtra,Moong,Kharif,5459.78,5225.0
+2017,Maharashtra,Moong,Kharif,5928.02,5575.0
+2018,Maharashtra,Moong,Kharif,6400.17,6975.0
+2019,Maharashtra,Moong,Kharif,8698.0,7050.0
+2020,Maharashtra,Moong,Kharif,7774.0,7196.0
+2021,Maharashtra,Moong,Kharif,6178.0,7196.0
+2022,Maharashtra,Moong,Kharif,8459.0,7755.0
+2007,Punjab,Moong,Kharif,1978.0,1700.0
+2008,Punjab,Moong,Kharif,2540.463333333333,2788.26
+2009,Punjab,Moong,Kharif,3102.9266666666663,3876.52
+2010,Punjab,Moong,Kharif,3665.39,3170.0
+2011,Punjab,Moong,Kharif,3686.32,3400.0
+2012,Punjab,Moong,Kharif,4141.74,4400.0
+2013,Punjab,Moong,Kharif,4578.43,4500.0
+2014,Punjab,Moong,Kharif,4991.68,4600.0
+2015,Punjab,Moong,Kharif,4400.0,4850.0
+2016,Punjab,Moong,Kharif,5459.78,5225.0
+2017,Punjab,Moong,Kharif,5928.02,5575.0
+2017,Punjab,Moong,Rabi,6164.095,6275.0
+2018,Punjab,Moong,Kharif,6400.17,6975.0
+2018,Punjab,Moong,Rabi,6829.085,7012.5
+2019,Punjab,Moong,Kharif,7258.0,7050.0
+2019,Punjab,Moong,Rabi,7077.25,7123.0
+2020,Punjab,Moong,Kharif,6896.5,7196.0
+2021,Punjab,Moong,Kharif,6178.0,7196.0
+2022,Punjab,Moong,Kharif,8459.0,7755.0
+2007,Uttar Pradesh,Moong,Kharif,1978.0,1700.0
+2008,Uttar Pradesh,Moong,Kharif,2540.463333333333,2788.26
+2009,Uttar Pradesh,Moong,Kharif,3102.9266666666663,3876.52
+2010,Uttar Pradesh,Moong,Kharif,3665.39,3170.0
+2011,Uttar Pradesh,Moong,Kharif,3686.32,3400.0
+2012,Uttar Pradesh,Moong,Kharif,4141.74,4400.0
+2013,Uttar Pradesh,Moong,Kharif,4578.43,4500.0
+2014,Uttar Pradesh,Moong,Kharif,4991.68,4600.0
+2015,Uttar Pradesh,Moong,Kharif,4400.0,4850.0
+2016,Uttar Pradesh,Moong,Kharif,5459.78,5225.0
+2017,Uttar Pradesh,Moong,Kharif,5928.02,5575.0
+2018,Uttar Pradesh,Moong,Kharif,6400.17,6975.0
+2019,Uttar Pradesh,Moong,Kharif,7258.0,7050.0
+2020,Uttar Pradesh,Moong,Kharif,6896.5,7196.0
+2021,Uttar Pradesh,Moong,Kharif,5981.0,7196.0
+2022,Uttar Pradesh,Moong,Kharif,8459.0,7755.0
+2007,Gujarat,Paddy,Kharif,618.3333333333334,645.0
+2008,Gujarat,Paddy,Kharif,607.2922222222222,942.05
+2009,Gujarat,Paddy,Kharif,596.2511111111112,1239.1
+2010,Gujarat,Paddy,Kharif,585.21,1000.0
+2011,Gujarat,Paddy,Kharif,629.37,1080.0
+2012,Gujarat,Paddy,Kharif,739.02,1250.0
+2013,Gujarat,Paddy,Kharif,845.54,1310.0
+2014,Gujarat,Paddy,Kharif,962.36,1360.0
+2015,Gujarat,Paddy,Kharif,1375.0,1410.0
+2016,Gujarat,Paddy,Kharif,1282.72,1470.0
+2017,Gujarat,Paddy,Kharif,1400.91,1550.0
+2018,Gujarat,Paddy,Kharif,1530.73,1750.0
+2019,Gujarat,Paddy,Kharif,1367.0,1815.0
+2020,Gujarat,Paddy,Kharif,1391.0,1868.0
+2021,Gujarat,Paddy,Kharif,1463.0,1868.0
+2022,Gujarat,Paddy,Kharif,1559.0,2040.0
+2007,Haryana,Paddy,Kharif,756.0,645.0
+2008,Haryana,Paddy,Kharif,757.88,1134.755
+2009,Haryana,Paddy,Kharif,759.76,1624.51
+2010,Haryana,Paddy,Kharif,761.64,1000.0
+2011,Haryana,Paddy,Kharif,1022.57,1080.0
+2012,Haryana,Paddy,Kharif,1146.5,1250.0
+2013,Haryana,Paddy,Kharif,1290.73,1310.0
+2014,Haryana,Paddy,Kharif,1408.83,1360.0
+2015,Haryana,Paddy,Kharif,1500.0,1410.0
+2016,Haryana,Paddy,Kharif,1656.7,1470.0
+2017,Haryana,Paddy,Kharif,1797.1,1550.0
+2018,Haryana,Paddy,Kharif,1934.31,1750.0
+2019,Haryana,Paddy,Kharif,1753.0,1815.0
+2020,Haryana,Paddy,Kharif,1777.0,1868.0
+2021,Haryana,Paddy,Kharif,1867.0,1868.0
+2022,Haryana,Paddy,Kharif,1947.0,2040.0
+2007,Maharashtra,Paddy,Kharif,618.3333333333334,645.0
+2008,Maharashtra,Paddy,Kharif,768.1622222222222,923.505
+2009,Maharashtra,Paddy,Kharif,917.9911111111111,1202.01
+2010,Maharashtra,Paddy,Kharif,1067.82,1000.0
+2011,Maharashtra,Paddy,Kharif,1482.13,1080.0
+2012,Maharashtra,Paddy,Kharif,1629.98,1250.0
+2013,Maharashtra,Paddy,Kharif,1813.11,1310.0
+2014,Maharashtra,Paddy,Kharif,2002.94,1360.0
+2015,Maharashtra,Paddy,Kharif,2000.0,1410.0
+2016,Maharashtra,Paddy,Kharif,2275.58,1470.0
+2017,Maharashtra,Paddy,Kharif,2471.49,1550.0
+2018,Maharashtra,Paddy,Kharif,2697.58,1750.0
+2019,Maharashtra,Paddy,Kharif,2652.0,1815.0
+2020,Maharashtra,Paddy,Kharif,2760.0,1868.0
+2021,Maharashtra,Paddy,Kharif,1584.25,1868.0
+2022,Maharashtra,Paddy,Kharif,3169.0,2040.0
+2007,Punjab,Paddy,Kharif,520.0,645.0
+2008,Punjab,Paddy,Kharif,535.2,868.26
+2009,Punjab,Paddy,Kharif,550.4,1091.52
+2010,Punjab,Paddy,Kharif,565.6,1000.0
+2011,Punjab,Paddy,Kharif,734.72,1080.0
+2012,Punjab,Paddy,Kharif,807.6,1250.0
+2013,Punjab,Paddy,Kharif,920.08,1310.0
+2014,Punjab,Paddy,Kharif,1000.54,1360.0
+2015,Punjab,Paddy,Kharif,1150.0,1410.0
+2016,Punjab,Paddy,Kharif,1184.69,1470.0
+2017,Punjab,Paddy,Kharif,1313.31,1550.0
+2018,Punjab,Paddy,Kharif,1450.48,1750.0
+2019,Punjab,Paddy,Kharif,1204.0,1815.0
+2020,Punjab,Paddy,Kharif,1223.0,1868.0
+2021,Punjab,Paddy,Kharif,1272.0,1868.0
+2022,Punjab,Paddy,Kharif,1335.0,2040.0
+2007,Uttar Pradesh,Paddy,Kharif,579.0,645.0
+2008,Uttar Pradesh,Paddy,Kharif,644.6166666666667,814.495
+2009,Uttar Pradesh,Paddy,Kharif,710.2333333333333,983.99
+2010,Uttar Pradesh,Paddy,Kharif,775.85,1000.0
+2011,Uttar Pradesh,Paddy,Kharif,898.88,1080.0
+2012,Uttar Pradesh,Paddy,Kharif,988.75,1250.0
+2013,Uttar Pradesh,Paddy,Kharif,1089.41,1310.0
+2014,Uttar Pradesh,Paddy,Kharif,1209.61,1360.0
+2015,Uttar Pradesh,Paddy,Kharif,1300.0,1410.0
+2016,Uttar Pradesh,Paddy,Kharif,1367.65,1470.0
+2017,Uttar Pradesh,Paddy,Kharif,1494.61,1550.0
+2018,Uttar Pradesh,Paddy,Kharif,1631.25,1750.0
+2019,Uttar Pradesh,Paddy,Kharif,1648.0,1815.0
+2020,Uttar Pradesh,Paddy,Kharif,1691.0,1868.0
+2021,Uttar Pradesh,Paddy,Kharif,1735.0,1868.0
+2022,Uttar Pradesh,Paddy,Kharif,1765.0,2040.0
+2007,Gujarat,Ragi,Kharif,2267.66,1144.38
+2008,Gujarat,Ragi,Kharif,2267.66,1144.38
+2009,Gujarat,Ragi,Kharif,2267.66,1144.38
+2010,Gujarat,Ragi,Kharif,2267.66,965.0
+2011,Gujarat,Ragi,Kharif,2391.19,1050.0
+2012,Gujarat,Ragi,Kharif,2470.82,1400.0
+2013,Gujarat,Ragi,Kharif,2697.51,1500.0
+2014,Gujarat,Ragi,Kharif,2919.23,1550.0
+2015,Gujarat,Ragi,Kharif,3300.0,1650.0
+2016,Gujarat,Ragi,Kharif,3217.43,1725.0
+2017,Gujarat,Ragi,Kharif,3505.07,1900.0
+2018,Gujarat,Ragi,Kharif,3816.03,2897.0
+2019,Gujarat,Ragi,Kharif,3858.5225,3067.25
+2020,Gujarat,Ragi,Kharif,3901.0150000000003,3237.5
+2021,Gujarat,Ragi,Kharif,3943.5075,3407.75
+2022,Gujarat,Ragi,Kharif,3986.0,3578.0
+2007,Maharashtra,Ragi,Kharif,3556.415,2766.7933333333335
+2008,Maharashtra,Ragi,Kharif,3126.83,1955.5866666666668
+2009,Maharashtra,Ragi,Kharif,2697.245,1144.38
+2010,Maharashtra,Ragi,Kharif,2267.66,965.0
+2011,Maharashtra,Ragi,Kharif,2391.19,1050.0
+2012,Maharashtra,Ragi,Kharif,2470.82,1400.0
+2013,Maharashtra,Ragi,Kharif,2697.51,1500.0
+2014,Maharashtra,Ragi,Kharif,2919.23,1550.0
+2015,Maharashtra,Ragi,Kharif,3300.0,1650.0
+2016,Maharashtra,Ragi,Kharif,3217.43,1725.0
+2017,Maharashtra,Ragi,Kharif,3505.07,1900.0
+2018,Maharashtra,Ragi,Kharif,3816.03,2897.0
+2019,Maharashtra,Ragi,Kharif,3858.5225,3067.25
+2020,Maharashtra,Ragi,Kharif,3901.0150000000003,3237.5
+2021,Maharashtra,Ragi,Kharif,3943.5075,3407.75
+2022,Maharashtra,Ragi,Kharif,3986.0,3578.0
+2007,Gujarat,Rapeseed & Mustard,Rabi,1038.51,1700.0
+2008,Gujarat,Rapeseed & Mustard,Rabi,932.63,1715.0
+2009,Gujarat,Rapeseed & Mustard,Rabi,1000.91,1715.0
+2010,Gujarat,Rapeseed & Mustard,Rabi,1016.22,1800.0
+2011,Gujarat,Rapeseed & Mustard,Rabi,1610.4,1830.0
+2012,Gujarat,Rapeseed & Mustard,Rabi,1416.38,1830.0
+2013,Gujarat,Rapeseed & Mustard,Rabi,1515.69,1850.0
+2014,Gujarat,Rapeseed & Mustard,Rabi,2113.8,3050.0
+2015,Gujarat,Rapeseed & Mustard,Rabi,2107.0,3100.0
+2016,Gujarat,Rapeseed & Mustard,Rabi,2289.0,3350.0
+2017,Gujarat,Rapeseed & Mustard,Rabi,2322.0,3600.0
+2018,Gujarat,Rapeseed & Mustard,Rabi,2768.0,3900.0
+2019,Gujarat,Rapeseed & Mustard,Rabi,2876.0,4200.0
+2020,Gujarat,Rapeseed & Mustard,Rabi,3034.0,4425.0
+2021,Gujarat,Rapeseed & Mustard,Rabi,3205.0,4650.0
+2022,Gujarat,Rapeseed & Mustard,Rabi,3403.0,5050.0
+2007,Haryana,Rapeseed & Mustard,Rabi,1326.11,1700.0
+2008,Haryana,Rapeseed & Mustard,Rabi,1245.58,1715.0
+2010,Haryana,Rapeseed & Mustard,Rabi,1396.05,1800.0
+2011,Haryana,Rapeseed & Mustard,Rabi,1251.12,1830.0
+2012,Haryana,Rapeseed & Mustard,Rabi,1555.52,1830.0
+2013,Haryana,Rapeseed & Mustard,Rabi,1642.41,1850.0
+2014,Haryana,Rapeseed & Mustard,Rabi,2023.04,3050.0
+2015,Haryana,Rapeseed & Mustard,Rabi,2339.0,3100.0
+2016,Haryana,Rapeseed & Mustard,Rabi,2400.0,3350.0
+2017,Haryana,Rapeseed & Mustard,Rabi,2916.0,3600.0
+2018,Haryana,Rapeseed & Mustard,Rabi,2996.0,3900.0
+2019,Haryana,Rapeseed & Mustard,Rabi,3217.0,4200.0
+2020,Haryana,Rapeseed & Mustard,Rabi,3333.0,4425.0
+2021,Haryana,Rapeseed & Mustard,Rabi,3420.0,4650.0
+2022,Haryana,Rapeseed & Mustard,Rabi,3498.0,5050.0
+2007,Maharashtra,Rapeseed & Mustard,Rabi,1218.3425,1700.0
+2008,Maharashtra,Rapeseed & Mustard,Rabi,1125.8700000000001,1715.0
+2009,Maharashtra,Rapeseed & Mustard,Rabi,1207.1566666666668,1715.0
+2010,Maharashtra,Rapeseed & Mustard,Rabi,1291.16,1800.0
+2011,Maharashtra,Rapeseed & Mustard,Rabi,1430.76,1830.0
+2012,Maharashtra,Rapeseed & Mustard,Rabi,1484.676666666667,1830.0
+2016,Maharashtra,Rapeseed & Mustard,Rabi,2543.0,3350.0
+2017,Maharashtra,Rapeseed & Mustard,Rabi,2765.6666666666665,3600.0
+2018,Maharashtra,Rapeseed & Mustard,Rabi,3087.3333333333335,3900.0
+2019,Maharashtra,Rapeseed & Mustard,Rabi,3238.0,4200.0
+2007,Punjab,Rapeseed & Mustard,Rabi,1270.95,1700.0
+2008,Punjab,Rapeseed & Mustard,Rabi,1125.8700000000001,1715.0
+2009,Punjab,Rapeseed & Mustard,Rabi,1207.1566666666668,1715.0
+2010,Punjab,Rapeseed & Mustard,Rabi,1291.16,1800.0
+2011,Punjab,Rapeseed & Mustard,Rabi,1430.76,1830.0
+2012,Punjab,Rapeseed & Mustard,Rabi,1484.676666666667,1830.0
+2013,Punjab,Rapeseed & Mustard,Rabi,1581.8033333333333,1850.0
+2014,Punjab,Rapeseed & Mustard,Rabi,2229.22,3050.0
+2015,Punjab,Rapeseed & Mustard,Rabi,2401.6666666666665,3100.0
+2016,Punjab,Rapeseed & Mustard,Rabi,2543.0,3350.0
+2017,Punjab,Rapeseed & Mustard,Rabi,2765.6666666666665,3600.0
+2018,Punjab,Rapeseed & Mustard,Rabi,3087.3333333333335,3900.0
+2019,Punjab,Rapeseed & Mustard,Rabi,3238.0,4200.0
+2020,Punjab,Rapeseed & Mustard,Rabi,3340.3333333333335,4425.0
+2021,Punjab,Rapeseed & Mustard,Rabi,3620.0,4650.0
+2022,Punjab,Rapeseed & Mustard,Rabi,3764.0,5050.0
+2007,Uttar Pradesh,Rapeseed & Mustard,Rabi,1237.8,1700.0
+2008,Uttar Pradesh,Rapeseed & Mustard,Rabi,1199.4,1715.0
+2009,Uttar Pradesh,Rapeseed & Mustard,Rabi,1196.67,1715.0
+2010,Uttar Pradesh,Rapeseed & Mustard,Rabi,1461.21,1800.0
+2011,Uttar Pradesh,Rapeseed & Mustard,Rabi,1430.76,1830.0
+2012,Uttar Pradesh,Rapeseed & Mustard,Rabi,1482.13,1830.0
+2013,Uttar Pradesh,Rapeseed & Mustard,Rabi,1587.31,1850.0
+2014,Uttar Pradesh,Rapeseed & Mustard,Rabi,2550.82,3050.0
+2015,Uttar Pradesh,Rapeseed & Mustard,Rabi,2759.0,3100.0
+2016,Uttar Pradesh,Rapeseed & Mustard,Rabi,2940.0,3350.0
+2017,Uttar Pradesh,Rapeseed & Mustard,Rabi,3059.0,3600.0
+2018,Uttar Pradesh,Rapeseed & Mustard,Rabi,3498.0,3900.0
+2019,Uttar Pradesh,Rapeseed & Mustard,Rabi,3621.0,4200.0
+2020,Uttar Pradesh,Rapeseed & Mustard,Rabi,3654.0,4425.0
+2021,Uttar Pradesh,Rapeseed & Mustard,Rabi,3681.0,4650.0
+2022,Uttar Pradesh,Rapeseed & Mustard,Rabi,3753.0,5050.0
+2007,Maharashtra,Safflower,Rabi,1030.69,1550.0
+2008,Maharashtra,Safflower,Rabi,1605.91,1565.0
+2009,Maharashtra,Safflower,Rabi,1298.23,1565.0
+2010,Maharashtra,Safflower,Rabi,2169.62,1650.0
+2011,Maharashtra,Safflower,Rabi,1865.36,1650.0
+2012,Maharashtra,Safflower,Rabi,2943.4,1680.0
+2013,Maharashtra,Safflower,Rabi,3089.47,1800.0
+2014,Maharashtra,Safflower,Rabi,3501.21,3000.0
+2015,Maharashtra,Safflower,Rabi,3685.0,3050.0
+2016,Maharashtra,Safflower,Rabi,3734.0,3300.0
+2017,Maharashtra,Safflower,Rabi,5326.0,3600.0
+2018,Maharashtra,Safflower,Rabi,5062.0,4000.0
+2019,Maharashtra,Safflower,Rabi,5184.0,4945.0
+2020,Maharashtra,Safflower,Rabi,5376.0,5215.0
+2021,Maharashtra,Safflower,Rabi,5523.0,5327.0
+2022,Maharashtra,Safflower,Rabi,5871.0,5441.0
+2007,Gujarat,Sesame,Kharif,2024.0,1580.0
+2008,Gujarat,Sesame,Kharif,2456.9933333333333,3918.265
+2009,Gujarat,Sesame,Kharif,2889.9866666666667,6256.53
+2010,Gujarat,Sesame,Kharif,3322.98,2900.0
+2011,Gujarat,Sesame,Kharif,4581.83,3400.0
+2012,Gujarat,Sesame,Kharif,4966.57,4200.0
+2013,Gujarat,Sesame,Kharif,5364.71,4500.0
+2014,Gujarat,Sesame,Kharif,5792.89,4600.0
+2015,Gujarat,Sesame,Kharif,4800.0,4700.0
+2016,Gujarat,Sesame,Kharif,6229.83,4800.0
+2017,Gujarat,Sesame,Kharif,6745.33,5300.0
+2018,Gujarat,Sesame,Kharif,7289.47,6249.0
+2019,Gujarat,Sesame,Kharif,7788.0,6485.0
+2020,Gujarat,Sesame,Kharif,7345.0,6855.0
+2021,Gujarat,Sesame,Kharif,7698.0,6855.0
+2022,Gujarat,Sesame,Kharif,4975.5,4217.5
+2007,Haryana,Sesame,Kharif,2253.0,1580.0
+2008,Haryana,Sesame,Kharif,2609.66,3918.265
+2009,Haryana,Sesame,Kharif,2966.32,6256.53
+2010,Haryana,Sesame,Kharif,3322.98,2900.0
+2011,Haryana,Sesame,Kharif,4581.83,3400.0
+2012,Haryana,Sesame,Kharif,4966.57,4200.0
+2013,Haryana,Sesame,Kharif,5364.71,4500.0
+2014,Haryana,Sesame,Kharif,5792.89,4600.0
+2015,Haryana,Sesame,Kharif,4800.0,4700.0
+2016,Haryana,Sesame,Kharif,6229.83,4800.0
+2017,Haryana,Sesame,Kharif,6745.33,5300.0
+2018,Haryana,Sesame,Kharif,7289.47,6249.0
+2019,Haryana,Sesame,Kharif,7721.0,6485.0
+2021,Haryana,Sesame,Kharif,7786.0,6855.0
+2007,Maharashtra,Sesame,Kharif,2253.0,1580.0
+2007,Maharashtra,Sesame,Rabi,2431.33,2749.1324999999997
+2008,Maharashtra,Sesame,Kharif,2609.66,3918.265
+2008,Maharashtra,Sesame,Rabi,2787.99,5087.3975
+2009,Maharashtra,Sesame,Kharif,2966.32,6256.53
+2009,Maharashtra,Sesame,Rabi,3144.65,4578.264999999999
+2010,Maharashtra,Sesame,Kharif,3322.98,2900.0
+2010,Maharashtra,Sesame,Rabi,3952.4049999999997,3150.0
+2011,Maharashtra,Sesame,Kharif,4581.83,3400.0
+2011,Maharashtra,Sesame,Rabi,4774.2,3800.0
+2012,Maharashtra,Sesame,Kharif,4966.57,4200.0
+2012,Maharashtra,Sesame,Rabi,5165.639999999999,4350.0
+2013,Maharashtra,Sesame,Kharif,5364.71,4500.0
+2013,Maharashtra,Sesame,Rabi,5578.8,4550.0
+2014,Maharashtra,Sesame,Kharif,5792.89,4600.0
+2014,Maharashtra,Sesame,Rabi,5296.445,4650.0
+2015,Maharashtra,Sesame,Kharif,4800.0,4700.0
+2015,Maharashtra,Sesame,Rabi,5514.915,4750.0
+2016,Maharashtra,Sesame,Kharif,6229.83,4800.0
+2016,Maharashtra,Sesame,Rabi,6487.58,5050.0
+2017,Maharashtra,Sesame,Kharif,6745.33,5300.0
+2017,Maharashtra,Sesame,Rabi,7017.4,5774.5
+2018,Maharashtra,Sesame,Kharif,7289.47,6249.0
+2018,Maharashtra,Sesame,Rabi,7505.235000000001,6367.0
+2019,Maharashtra,Sesame,Kharif,7721.0,6485.0
+2019,Maharashtra,Sesame,Rabi,7601.25,6670.0
+2020,Maharashtra,Sesame,Kharif,7481.5,6855.0
+2020,Maharashtra,Sesame,Rabi,7633.75,6855.0
+2021,Maharashtra,Sesame,Kharif,7786.0,6855.0
+2021,Maharashtra,Sesame,Rabi,6402.75,5536.25
+2022,Maharashtra,Sesame,Kharif,5019.5,4217.5
+2022,Maharashtra,Sesame,Rabi,3636.25,2898.75
+2007,Punjab,Sesame,Kharif,2253.0,1580.0
+2008,Punjab,Sesame,Kharif,2609.66,3918.265
+2009,Punjab,Sesame,Kharif,2966.32,6256.53
+2010,Punjab,Sesame,Kharif,3322.98,2900.0
+2011,Punjab,Sesame,Kharif,4581.83,3400.0
+2012,Punjab,Sesame,Kharif,4966.57,4200.0
+2013,Punjab,Sesame,Kharif,5364.71,4500.0
+2014,Punjab,Sesame,Kharif,5792.89,4600.0
+2015,Punjab,Sesame,Kharif,4800.0,4700.0
+2016,Punjab,Sesame,Kharif,6229.83,4800.0
+2017,Punjab,Sesame,Kharif,6745.33,5300.0
+2018,Punjab,Sesame,Kharif,7289.47,6249.0
+2019,Punjab,Sesame,Kharif,7721.0,6485.0
+2020,Punjab,Sesame,Kharif,7481.5,6855.0
+2021,Punjab,Sesame,Kharif,7786.0,6855.0
+2022,Punjab,Sesame,Kharif,5134.0,4217.5
+2007,Uttar Pradesh,Sesame,Kharif,2482.0,1580.0
+2008,Uttar Pradesh,Sesame,Kharif,2762.326666666667,3918.265
+2009,Uttar Pradesh,Sesame,Kharif,3042.653333333333,6256.53
+2010,Uttar Pradesh,Sesame,Kharif,3322.98,2900.0
+2011,Uttar Pradesh,Sesame,Kharif,4581.83,3400.0
+2012,Uttar Pradesh,Sesame,Kharif,4966.57,4200.0
+2013,Uttar Pradesh,Sesame,Kharif,5364.71,4500.0
+2014,Uttar Pradesh,Sesame,Kharif,5792.89,4600.0
+2015,Uttar Pradesh,Sesame,Kharif,4800.0,4700.0
+2016,Uttar Pradesh,Sesame,Kharif,6229.83,4800.0
+2017,Uttar Pradesh,Sesame,Kharif,6745.33,5300.0
+2018,Uttar Pradesh,Sesame,Kharif,7289.47,6249.0
+2019,Uttar Pradesh,Sesame,Kharif,7654.0,6485.0
+2020,Uttar Pradesh,Sesame,Kharif,7618.0,6855.0
+2021,Uttar Pradesh,Sesame,Kharif,7874.0,6855.0
+2022,Uttar Pradesh,Sesame,Kharif,7874.0,6855.0
+2010,Gujarat,Soybean,Kharif,1453.11,1400.0
+2011,Gujarat,Soybean,Kharif,1829.98,1650.0
+2012,Gujarat,Soybean,Kharif,2027.68,2200.0
+2013,Gujarat,Soybean,Kharif,2217.15,2500.0
+2014,Gujarat,Soybean,Kharif,2406.84,2560.0
+2015,Gujarat,Soybean,Kharif,2400.0,2600.0
+2016,Gujarat,Soybean,Kharif,2603.95,2675.0
+2017,Gujarat,Soybean,Kharif,2821.57,3050.0
+2018,Gujarat,Soybean,Kharif,3054.12,3399.0
+2019,Gujarat,Soybean,Kharif,3816.0,3710.0
+2020,Gujarat,Soybean,Kharif,3906.0,3880.0
+2021,Gujarat,Soybean,Kharif,3972.0,4090.0
+2022,Gujarat,Soybean,Kharif,4038.0,4300.0
+2010,Haryana,Soybean,Kharif,1453.11,1400.0
+2011,Haryana,Soybean,Kharif,1829.98,1650.0
+2021,Haryana,Soybean,Kharif,1448.49,1280.0
+2007,Maharashtra,Soybean,Kharif,1067.0,910.0
+2008,Maharashtra,Soybean,Kharif,1195.7033333333334,1560.815
+2009,Maharashtra,Soybean,Kharif,1324.4066666666665,2211.63
+2010,Maharashtra,Soybean,Kharif,1453.11,1400.0
+2011,Maharashtra,Soybean,Kharif,1829.98,1650.0
+2012,Maharashtra,Soybean,Kharif,2027.68,2200.0
+2013,Maharashtra,Soybean,Kharif,2217.15,2500.0
+2014,Maharashtra,Soybean,Kharif,2406.84,2560.0
+2015,Maharashtra,Soybean,Kharif,2400.0,2600.0
+2016,Maharashtra,Soybean,Kharif,2603.95,2675.0
+2017,Maharashtra,Soybean,Kharif,2821.57,3050.0
+2018,Maharashtra,Soybean,Kharif,3054.12,3399.0
+2019,Maharashtra,Soybean,Kharif,3816.0,3710.0
+2020,Maharashtra,Soybean,Kharif,3906.0,3880.0
+2021,Maharashtra,Soybean,Kharif,3972.0,4090.0
+2022,Maharashtra,Soybean,Kharif,4038.0,4300.0
+2007,Uttar Pradesh,Soybean,Kharif,1067.0,910.0
+2008,Uttar Pradesh,Soybean,Kharif,1195.7033333333334,1560.815
+2009,Uttar Pradesh,Soybean,Kharif,1324.4066666666665,2211.63
+2010,Uttar Pradesh,Soybean,Kharif,1453.11,1400.0
+2011,Uttar Pradesh,Soybean,Kharif,1829.98,1650.0
+2012,Uttar Pradesh,Soybean,Kharif,2027.68,2200.0
+2013,Uttar Pradesh,Soybean,Kharif,2217.15,2500.0
+2014,Uttar Pradesh,Soybean,Kharif,2406.84,2560.0
+2015,Uttar Pradesh,Soybean,Kharif,2400.0,2600.0
+2016,Uttar Pradesh,Soybean,Kharif,2603.95,2675.0
+2017,Uttar Pradesh,Soybean,Kharif,2821.57,3050.0
+2018,Uttar Pradesh,Soybean,Kharif,3054.12,3399.0
+2019,Uttar Pradesh,Soybean,Kharif,3816.0,3710.0
+2020,Uttar Pradesh,Soybean,Kharif,3906.0,3880.0
+2021,Uttar Pradesh,Soybean,Kharif,3972.0,4090.0
+2022,Uttar Pradesh,Soybean,Kharif,4038.0,4300.0
+2007,Haryana,Sunflower,Rabi,2169.39,2350.0
+2008,Haryana,Sunflower,Rabi,2169.39,2350.0
+2009,Haryana,Sunflower,Rabi,2169.39,2350.0
+2010,Haryana,Sunflower,Kharif,2169.39,2350.0
+2011,Haryana,Sunflower,Kharif,2652.34,2800.0
+2012,Haryana,Sunflower,Kharif,2866.52,3700.0
+2013,Haryana,Sunflower,Kharif,3122.95,4000.0
+2014,Haryana,Sunflower,Kharif,3373.12,3750.0
+2015,Haryana,Sunflower,Kharif,3600.0,3800.0
+2016,Haryana,Sunflower,Kharif,3656.78,3950.0
+2017,Haryana,Sunflower,Kharif,3962.69,4100.0
+2018,Haryana,Sunflower,Kharif,4286.97,5388.0
+2019,Haryana,Sunflower,Kharif,3670.9775,4418.5
+2020,Haryana,Sunflower,Kharif,3054.985,3449.0
+2021,Haryana,Sunflower,Kharif,2438.9925000000003,2479.5
+2007,Maharashtra,Sunflower,Kharif,1823.0,1510.0
+2007,Maharashtra,Sunflower,Rabi,1880.7316666666666,1641.9025
+2008,Maharashtra,Sunflower,Kharif,1938.4633333333334,1773.8049999999998
+2008,Maharashtra,Sunflower,Rabi,1996.195,1905.7075
+2009,Maharashtra,Sunflower,Kharif,2053.9266666666667,2037.61
+2009,Maharashtra,Sunflower,Rabi,2111.6583333333333,2193.805
+2010,Maharashtra,Sunflower,Kharif,2169.39,2350.0
+2010,Maharashtra,Sunflower,Rabi,2410.865,2575.0
+2011,Maharashtra,Sunflower,Kharif,2652.34,2800.0
+2011,Maharashtra,Sunflower,Rabi,2759.4300000000003,3250.0
+2012,Maharashtra,Sunflower,Kharif,2866.52,3700.0
+2012,Maharashtra,Sunflower,Rabi,2994.7349999999997,3850.0
+2013,Maharashtra,Sunflower,Kharif,3122.95,4000.0
+2013,Maharashtra,Sunflower,Rabi,3248.035,3875.0
+2014,Maharashtra,Sunflower,Kharif,3373.12,3750.0
+2014,Maharashtra,Sunflower,Rabi,3486.56,3775.0
+2015,Maharashtra,Sunflower,Kharif,3600.0,3800.0
+2015,Maharashtra,Sunflower,Rabi,3628.3900000000003,3875.0
+2016,Maharashtra,Sunflower,Kharif,3656.78,3950.0
+2016,Maharashtra,Sunflower,Rabi,3809.735,4025.0
+2017,Maharashtra,Sunflower,Kharif,3962.69,4100.0
+2017,Maharashtra,Sunflower,Rabi,4124.83,4744.0
+2018,Maharashtra,Sunflower,Kharif,4286.97,5388.0
+2019,Maharashtra,Sunflower,Kharif,4286.97,5388.0
+2019,Maharashtra,Sunflower,Rabi,4286.97,5388.0
+2020,Maharashtra,Sunflower,Kharif,4286.97,5388.0
+2020,Maharashtra,Sunflower,Rabi,4286.97,5388.0
+2021,Maharashtra,Sunflower,Kharif,4286.97,5388.0
+2021,Maharashtra,Sunflower,Rabi,4286.97,5388.0
+2022,Maharashtra,Sunflower,Kharif,4286.97,5388.0
+2022,Maharashtra,Sunflower,Rabi,4286.97,5388.0
+2012,Punjab,Sunflower,Rabi,4286.97,5388.0
+2016,Punjab,Sunflower,Rabi,4286.97,5388.0
+2017,Punjab,Sunflower,Rabi,4286.97,5388.0
+2018,Punjab,Sunflower,Rabi,4286.97,5388.0
+2019,Punjab,Sunflower,Rabi,4286.97,5388.0
+2020,Punjab,Sunflower,Rabi,4286.97,5388.0
+2021,Punjab,Sunflower,Rabi,4286.97,5388.0
+2022,Punjab,Sunflower,Rabi,4286.97,5388.0
+2007,Gujarat,Tur,Kharif,1620.0,1550.0
+2008,Gujarat,Tur,Kharif,1606.21,3988.285
+2009,Gujarat,Tur,Kharif,1592.42,6426.57
+2010,Gujarat,Tur,Kharif,1578.63,2800.0
+2011,Gujarat,Tur,Kharif,2144.14,3100.0
+2012,Gujarat,Tur,Kharif,2488.75,3850.0
+2013,Gujarat,Tur,Kharif,2690.66,4000.0
+2014,Gujarat,Tur,Kharif,2933.27,4350.0
+2015,Gujarat,Tur,Kharif,3000.0,4625.0
+2016,Gujarat,Tur,Kharif,3247.98,5050.0
+2017,Gujarat,Tur,Kharif,3546.67,5450.0
+2018,Gujarat,Tur,Kharif,3855.97,5675.0
+2019,Gujarat,Tur,Kharif,5071.0,5800.0
+2020,Gujarat,Tur,Kharif,4971.0,6000.0
+2021,Gujarat,Tur,Kharif,5095.0,6000.0
+2022,Gujarat,Tur,Kharif,5361.0,6600.0
+2007,Haryana,Tur,Kharif,1436.0,1550.0
+2008,Haryana,Tur,Kharif,1593.068888888889,3988.285
+2009,Haryana,Tur,Kharif,1750.1377777777777,6426.57
+2010,Haryana,Tur,Kharif,1907.2066666666667,2800.0
+2011,Haryana,Tur,Kharif,2478.563333333333,3100.0
+2012,Haryana,Tur,Kharif,2785.9933333333333,3850.0
+2013,Haryana,Tur,Kharif,3042.623333333333,4000.0
+2014,Haryana,Tur,Kharif,3314.69,4350.0
+2015,Haryana,Tur,Kharif,2933.3333333333335,4625.0
+2016,Haryana,Tur,Kharif,3641.0366666666664,5050.0
+2017,Haryana,Tur,Kharif,3969.206666666667,5450.0
+2018,Haryana,Tur,Kharif,4311.6466666666665,5675.0
+2019,Haryana,Tur,Kharif,5354.333333333333,5800.0
+2020,Haryana,Tur,Kharif,5386.333333333333,6000.0
+2021,Haryana,Tur,Kharif,5241.0,6000.0
+2007,Maharashtra,Tur,Kharif,1393.0,1550.0
+2008,Maharashtra,Tur,Kharif,1660.2966666666666,2683.0550000000003
+2009,Maharashtra,Tur,Kharif,1927.5933333333332,3816.11
+2010,Maharashtra,Tur,Kharif,2194.89,2800.0
+2011,Maharashtra,Tur,Kharif,2974.45,3100.0
+2012,Maharashtra,Tur,Kharif,3381.56,3850.0
+2013,Maharashtra,Tur,Kharif,3708.3,4000.0
+2014,Maharashtra,Tur,Kharif,4028.98,4350.0
+2015,Maharashtra,Tur,Kharif,3300.0,4625.0
+2016,Maharashtra,Tur,Kharif,4434.9,5050.0
+2017,Maharashtra,Tur,Kharif,4833.68,5450.0
+2018,Maharashtra,Tur,Kharif,5240.23,5675.0
+2019,Maharashtra,Tur,Kharif,5546.0,5800.0
+2020,Maharashtra,Tur,Kharif,5596.0,6000.0
+2021,Maharashtra,Tur,Kharif,5241.0,6000.0
+2022,Maharashtra,Tur,Kharif,5769.0,6600.0
+2007,Punjab,Tur,Kharif,1436.0,1550.0
+2008,Punjab,Tur,Kharif,1593.068888888889,3988.285
+2009,Punjab,Tur,Kharif,1750.1377777777777,6426.57
+2010,Punjab,Tur,Kharif,1907.2066666666667,2800.0
+2011,Punjab,Tur,Kharif,2478.563333333333,3100.0
+2012,Punjab,Tur,Kharif,2785.9933333333333,3850.0
+2013,Punjab,Tur,Kharif,3042.623333333333,4000.0
+2014,Punjab,Tur,Kharif,3314.69,4350.0
+2015,Punjab,Tur,Kharif,2933.3333333333335,4625.0
+2016,Punjab,Tur,Kharif,3641.0366666666664,5050.0
+2017,Punjab,Tur,Kharif,3969.206666666667,5450.0
+2018,Punjab,Tur,Kharif,4311.6466666666665,5675.0
+2019,Punjab,Tur,Kharif,5354.333333333333,5800.0
+2020,Punjab,Tur,Kharif,5386.333333333333,6000.0
+2021,Punjab,Tur,Kharif,5241.0,6000.0
+2022,Punjab,Tur,Kharif,5615.333333333333,6600.0
+2007,Uttar Pradesh,Tur,Kharif,1295.0,1550.0
+2008,Uttar Pradesh,Tur,Kharif,1512.7,3359.24
+2009,Uttar Pradesh,Tur,Kharif,1730.3999999999999,5168.48
+2010,Uttar Pradesh,Tur,Kharif,1948.1,2800.0
+2011,Uttar Pradesh,Tur,Kharif,2317.1,3100.0
+2012,Uttar Pradesh,Tur,Kharif,2487.67,3850.0
+2013,Uttar Pradesh,Tur,Kharif,2728.91,4000.0
+2014,Uttar Pradesh,Tur,Kharif,2981.82,4350.0
+2015,Uttar Pradesh,Tur,Kharif,2500.0,4625.0
+2016,Uttar Pradesh,Tur,Kharif,3240.23,5050.0
+2017,Uttar Pradesh,Tur,Kharif,3527.27,5450.0
+2018,Uttar Pradesh,Tur,Kharif,3838.74,5675.0
+2019,Uttar Pradesh,Tur,Kharif,5446.0,5800.0
+2020,Uttar Pradesh,Tur,Kharif,5592.0,6000.0
+2021,Uttar Pradesh,Tur,Kharif,5387.0,6000.0
+2022,Uttar Pradesh,Tur,Kharif,5716.0,6600.0
+2007,Gujarat,Urad,Kharif,1604.0,1700.0
+2008,Gujarat,Urad,Kharif,2023.6616666666666,3185.045
+2009,Gujarat,Urad,Kharif,2443.3233333333333,4670.09
+2010,Gujarat,Urad,Kharif,2862.985,2900.0
+2011,Gujarat,Urad,Kharif,3220.975,3300.0
+2012,Gujarat,Urad,Kharif,3535.76,4300.0
+2013,Gujarat,Urad,Kharif,3862.555,4300.0
+2014,Gujarat,Urad,Kharif,4186.0,4350.0
+2015,Gujarat,Urad,Kharif,4100.0,4625.0
+2016,Gujarat,Urad,Kharif,4550.6849999999995,5000.0
+2017,Gujarat,Urad,Kharif,4929.985000000001,5400.0
+2018,Gujarat,Urad,Kharif,5330.16,5600.0
+2019,Gujarat,Urad,Kharif,7510.5,5700.0
+2020,Gujarat,Urad,Kharif,7492.0,6000.0
+2021,Gujarat,Urad,Kharif,5534.0,6000.0
+2022,Gujarat,Urad,Kharif,3569.0,3850.0
+2007,Haryana,Urad,Kharif,1604.0,1700.0
+2008,Haryana,Urad,Kharif,2023.6616666666666,3185.045
+2009,Haryana,Urad,Kharif,2443.3233333333333,4670.09
+2010,Haryana,Urad,Kharif,2862.985,2900.0
+2011,Haryana,Urad,Kharif,3220.975,3300.0
+2012,Haryana,Urad,Kharif,3535.76,4300.0
+2013,Haryana,Urad,Kharif,3862.555,4300.0
+2014,Haryana,Urad,Kharif,4186.0,4350.0
+2015,Haryana,Urad,Kharif,4100.0,4625.0
+2016,Haryana,Urad,Kharif,4550.6849999999995,5000.0
+2017,Haryana,Urad,Kharif,4929.985000000001,5400.0
+2018,Haryana,Urad,Kharif,5330.16,5600.0
+2019,Haryana,Urad,Kharif,7510.5,5700.0
+2020,Haryana,Urad,Kharif,7492.0,6000.0
+2007,Maharashtra,Urad,Kharif,1915.0,1700.0
+2008,Maharashtra,Urad,Kharif,2336.7533333333336,3185.045
+2009,Maharashtra,Urad,Kharif,2758.5066666666667,4670.09
+2010,Maharashtra,Urad,Kharif,3180.26,2900.0
+2011,Maharashtra,Urad,Kharif,3550.83,3300.0
+2012,Maharashtra,Urad,Kharif,3939.92,4300.0
+2013,Maharashtra,Urad,Kharif,4306.94,4300.0
+2014,Maharashtra,Urad,Kharif,4684.97,4350.0
+2015,Maharashtra,Urad,Kharif,4500.0,4625.0
+2016,Maharashtra,Urad,Kharif,5110.15,5000.0
+2017,Maharashtra,Urad,Kharif,5543.83,5400.0
+2018,Maharashtra,Urad,Kharif,5991.68,5600.0
+2019,Maharashtra,Urad,Kharif,7963.0,5700.0
+2020,Maharashtra,Urad,Kharif,7807.0,6000.0
+2021,Maharashtra,Urad,Kharif,5833.5,6000.0
+2022,Maharashtra,Urad,Kharif,3718.75,3850.0
+2007,Punjab,Urad,Kharif,1604.0,1700.0
+2008,Punjab,Urad,Kharif,2023.6616666666666,3185.045
+2009,Punjab,Urad,Kharif,2443.3233333333333,4670.09
+2010,Punjab,Urad,Kharif,2862.985,2900.0
+2011,Punjab,Urad,Kharif,3220.975,3300.0
+2012,Punjab,Urad,Kharif,3535.76,4300.0
+2013,Punjab,Urad,Kharif,3862.555,4300.0
+2014,Punjab,Urad,Kharif,4186.0,4350.0
+2015,Punjab,Urad,Kharif,4100.0,4625.0
+2016,Punjab,Urad,Kharif,4550.6849999999995,5000.0
+2017,Punjab,Urad,Kharif,4929.985000000001,5400.0
+2018,Punjab,Urad,Kharif,5330.16,5600.0
+2019,Punjab,Urad,Kharif,7510.5,5700.0
+2020,Punjab,Urad,Kharif,7492.0,6000.0
+2021,Punjab,Urad,Kharif,5833.5,6000.0
+2022,Punjab,Urad,Kharif,3563.25,3850.0
+2007,Uttar Pradesh,Urad,Kharif,1293.0,1700.0
+2008,Uttar Pradesh,Urad,Kharif,1710.57,2958.155
+2009,Uttar Pradesh,Urad,Kharif,2128.14,4216.31
+2010,Uttar Pradesh,Urad,Kharif,2545.71,2900.0
+2011,Uttar Pradesh,Urad,Kharif,2891.12,3300.0
+2012,Uttar Pradesh,Urad,Kharif,3131.6,4300.0
+2013,Uttar Pradesh,Urad,Kharif,3418.17,4300.0
+2014,Uttar Pradesh,Urad,Kharif,3687.03,4350.0
+2015,Uttar Pradesh,Urad,Kharif,3700.0,4625.0
+2016,Uttar Pradesh,Urad,Kharif,3991.22,5000.0
+2017,Uttar Pradesh,Urad,Kharif,4316.14,5400.0
+2018,Uttar Pradesh,Urad,Kharif,4668.64,5600.0
+2019,Uttar Pradesh,Urad,Kharif,7058.0,5700.0
+2020,Uttar Pradesh,Urad,Kharif,7177.0,6000.0
+2021,Uttar Pradesh,Urad,Kharif,6133.0,6000.0
+2022,Uttar Pradesh,Urad,Kharif,6133.0,6000.0
+2007,Gujarat,Wheat,Rabi,535.37,630.0
+2008,Gujarat,Wheat,Rabi,524.8,700.0
+2009,Gujarat,Wheat,Rabi,602.91,850.0
+2010,Gujarat,Wheat,Rabi,581.12,1000.0
+2011,Gujarat,Wheat,Rabi,717.7,1080.0
+2012,Gujarat,Wheat,Rabi,783.88,1100.0
+2013,Gujarat,Wheat,Rabi,884.28,1120.0
+2014,Gujarat,Wheat,Rabi,1051.4,1400.0
+2015,Gujarat,Wheat,Rabi,1228.0,1450.0
+2016,Gujarat,Wheat,Rabi,1341.0,1525.0
+2017,Gujarat,Wheat,Rabi,1320.0,1625.0
+2018,Gujarat,Wheat,Rabi,1336.0,1735.0
+2019,Gujarat,Wheat,Rabi,1423.0,1840.0
+2020,Gujarat,Wheat,Rabi,1504.0,1925.0
+2021,Gujarat,Wheat,Rabi,1653.0,1975.0
+2022,Gujarat,Wheat,Rabi,1709.0,2015.0
+2007,Haryana,Wheat,Rabi,522.87,640.0
+2008,Haryana,Wheat,Rabi,577.41,700.0
+2009,Haryana,Wheat,Rabi,588.68,850.0
+2010,Haryana,Wheat,Rabi,673.46,1000.0
+2011,Haryana,Wheat,Rabi,716.55,1080.0
+2012,Haryana,Wheat,Rabi,832.45,1100.0
+2013,Haryana,Wheat,Rabi,890.35,1120.0
+2014,Haryana,Wheat,Rabi,1131.81,1400.0
+2015,Haryana,Wheat,Rabi,1138.0,1450.0
+2016,Haryana,Wheat,Rabi,1141.0,1525.0
+2017,Haryana,Wheat,Rabi,1216.0,1625.0
+2018,Haryana,Wheat,Rabi,1267.0,1735.0
+2019,Haryana,Wheat,Rabi,1369.0,1840.0
+2020,Haryana,Wheat,Rabi,1461.0,1925.0
+2021,Haryana,Wheat,Rabi,1500.0,1975.0
+2022,Haryana,Wheat,Rabi,1536.0,2015.0
+2007,Maharashtra,Wheat,Rabi,537.6,640.0
+2008,Maharashtra,Wheat,Rabi,578.175,700.0
+2009,Maharashtra,Wheat,Rabi,611.1475,850.0
+2010,Maharashtra,Wheat,Rabi,638.4175,1000.0
+2011,Maharashtra,Wheat,Rabi,746.35,1080.0
+2012,Maharashtra,Wheat,Rabi,1348.75,1100.0
+2013,Maharashtra,Wheat,Rabi,875.9275,1120.0
+2014,Maharashtra,Wheat,Rabi,1619.34,1400.0
+2015,Maharashtra,Wheat,Rabi,1840.0,1450.0
+2016,Maharashtra,Wheat,Rabi,1851.0,1525.0
+2017,Maharashtra,Wheat,Rabi,2015.0,1625.0
+2018,Maharashtra,Wheat,Rabi,2076.0,1735.0
+2019,Maharashtra,Wheat,Rabi,2222.0,1840.0
+2020,Maharashtra,Wheat,Rabi,2408.0,1925.0
+2021,Maharashtra,Wheat,Rabi,2497.0,1975.0
+2022,Maharashtra,Wheat,Rabi,2593.0,2015.0
+2007,Punjab,Wheat,Rabi,494.35,640.0
+2008,Punjab,Wheat,Rabi,556.27,700.0
+2009,Punjab,Wheat,Rabi,617.11,850.0
+2010,Punjab,Wheat,Rabi,647.95,1000.0
+2011,Punjab,Wheat,Rabi,804.8,1080.0
+2012,Punjab,Wheat,Rabi,816.89,1100.0
+2013,Punjab,Wheat,Rabi,842.17,1120.0
+2014,Punjab,Wheat,Rabi,1123.58,1400.0
+2015,Punjab,Wheat,Rabi,1083.0,1450.0
+2016,Punjab,Wheat,Rabi,1085.0,1525.0
+2017,Punjab,Wheat,Rabi,1090.0,1625.0
+2018,Punjab,Wheat,Rabi,1128.0,1735.0
+2019,Punjab,Wheat,Rabi,1174.0,1840.0
+2020,Punjab,Wheat,Rabi,1238.0,1925.0
+2021,Punjab,Wheat,Rabi,1287.0,1975.0
+2022,Punjab,Wheat,Rabi,1357.0,2015.0
+2007,Uttar Pradesh,Wheat,Rabi,597.81,640.0
+2008,Uttar Pradesh,Wheat,Rabi,654.22,700.0
+2009,Uttar Pradesh,Wheat,Rabi,635.89,850.0
+2010,Uttar Pradesh,Wheat,Rabi,651.14,1000.0
+2011,Uttar Pradesh,Wheat,Rabi,746.35,1080.0
+2012,Uttar Pradesh,Wheat,Rabi,832.96,1100.0
+2013,Uttar Pradesh,Wheat,Rabi,886.91,1120.0
+2014,Uttar Pradesh,Wheat,Rabi,1078.87,1400.0
+2015,Uttar Pradesh,Wheat,Rabi,1146.0,1450.0
+2016,Uttar Pradesh,Wheat,Rabi,1162.0,1525.0
+2017,Uttar Pradesh,Wheat,Rabi,1183.0,1625.0
+2018,Uttar Pradesh,Wheat,Rabi,1255.0,1735.0
+2019,Uttar Pradesh,Wheat,Rabi,1402.0,1840.0
+2020,Uttar Pradesh,Wheat,Rabi,1521.0,1925.0
+2021,Uttar Pradesh,Wheat,Rabi,1560.0,1975.0
+2022,Uttar Pradesh,Wheat,Rabi,1584.0,2015.0

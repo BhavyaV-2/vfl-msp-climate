@@ -1,0 +1,11 @@
+# Python & Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Ignore large raw data files if exceeding 100 MB (GitHub file limit)
+# data/raw_large_files/
