@@ -21,7 +21,7 @@ param_string = ",".join(parameters)
 
 start_year = 2007
 # Try current year first
-target_end_year = datetime.now().year
+target_end_year = 2023
 
 all_state_data = []
 
